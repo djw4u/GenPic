@@ -1,2 +1,2 @@
 # GenPic
-Parameter based auto Generation of SVG Images using IPytohn notebooks
+A system to auto generate SVG immages based on parameters using IPytohn notebooks.
