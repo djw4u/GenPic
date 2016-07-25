@@ -13,6 +13,6 @@ GenPic is a collection of IPython notebooks to generate SVG images and manage th
 
 2. **GPGH04-Manipulate-Images** erzeugt aus manipulierten Bildern neue Bilder.
 
-### The Data and picutre files
+### The Data and SVG files
 
 1.  *color-palettes.data*
