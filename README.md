@@ -16,3 +16,6 @@ GenPic is a collection of IPython notebooks to generate SVG images and manage th
 ### The Data and SVG files
 
 1.  *color-palettes.data*
+2.  
+
+hg-pages :  http://djw4u.github.io/GenPic/
