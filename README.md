@@ -1,7 +1,7 @@
-# [GenPiC](http://getbootstrap.com)
+# [GenPic](http://getbootstrap.com)
 
 
-Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, created by Jürgen wendt](https://dogxs.net), and maintained by the [core team](https://github.com/orgs/twbs/people) with the massive support and involvement of the community.
+GenPic is a wonderful powerful front-end framework for faster and easier web development, created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thornton](https://twitter.com/fat), and maintained by the [core team](https://github.com/orgs/twbs/people) with the massive support and involvement of the community.
 
 To get started, check out <http://getbootstrap.com>!
 
@@ -121,8 +121,13 @@ See [the Releases section of our GitHub project](https://github.com/twbs/bootstr
 
 **Mark Otto**
 
-* <https://dogxs.net.
-* <https://github.com/djw4u>
+* <https://twitter.com/mdo>
+* <https://github.com/mdo>
+
+**Jacob Thornton**
+
+* <https://twitter.com/fat>
+* <https://github.com/fat>
 
 
 ## Copyright and license
