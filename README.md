@@ -1,31 +1,40 @@
 # GenPic
+
+
 GenPic is a collection of IPython notebooks to generate SVG images and manage them.
 
-Test change: 20160727 9:45
-
-You can create impressive digital art pictures using actual and easy to us technologies:
+You can create impressive digital art pictures using only:
 
    + SVG
-   + Python and IPython, best use via the excellent anaconda pages.
-   + Store data in local files 
-   + or alternative for more sophisticated use in a database (SQLite is used as an example via SQLAlchemy wrapper 
+   + Python >3.4 and IPython - easy to install with
+     [Anaconda](https://www.continuum.io/downloads).
+
+Choose how to store the generated pictures and data
+
+   + In local files 
+   + Or for more sophisticated use in a database
+      (SQLite is used as an example via SQLAlchemy wrapper).
 
 
-## A short overview of the files
+## A short overview of the files of the project
 
 ### The IPytohn notebooks (ipynb)
 
-1. *GPGH01-Show-Palettes* is a tool to visualize the color palettes of the file *color-palettes.data*.
+1. *GPGH01-Show-Palettes* visualizes the color palettes of the file *color-palettes.data*.
 
-2. **GPGH02-Picture-Generator**  generates SVG pictures using parameters to control the picture style, picute structure and the forms ,colors and sizes of the picture elements.
+2. *GPGH02-Picture-Generator*  generates SVG pictures using parameters to control:
+   
+   * The picture style and structure.
+   * The form ,color, position and size of the picture elements.
 
-2. **GPGH03-Images-to-HTML** generates HTML based cataloges to navigate trough picture galeries by a webbrowser. 
+2. *GPGH03-Images-to-HTML* generates HTML based cataloges to navigate through
+   picture galeries by a webbrowser. 
 
-2. **GPGH04-Manipulate-Images** erzeugt aus manipulierten Bildern neue Bilder.
+2. *GPGH04-Manipulate-Images* manipulates existing pictures to create new ones.
 
 ### The Data and SVG files
 
-1.  *color-palettes.data*
+1.  *color-palettes.data* provides nice color palettes in an Json format.
 2.  
 
-hg-pages :  http://djw4u.github.io/GenPic/
+Visit the website of [GenPic](http://djw4u.github.io/GenPic/)
