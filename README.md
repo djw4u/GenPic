@@ -1,6 +1,8 @@
 # GenPic
 GenPic is a collection of IPython notebooks to generate SVG images and manage them.
 
+Test change: 20160727 9:45
+
 You can create impressive digital art pictures using actual and easy to us technologies:
 
    + SVG
