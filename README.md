@@ -1,6 +1,6 @@
 # GenPic - under heavy construction
-## actually documentation and coding not synched.
-## Be patient or contect the project owner
+## actually documentation and coding not synced and not in an usable state.
+## Be patient or contact the project owner
 
 
 GenPic is a collection of IPython notebooks to generate SVG images and manage them.
