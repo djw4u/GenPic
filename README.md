@@ -1,9 +1,7 @@
 # [GenPic](http://getbootstrap.com)
 
 
-GenPic is a wonderful powerful front-end framework for faster and easier web development, created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thornton](https://twitter.com/fat), and maintained by the [core team](https://github.com/orgs/twbs/people) with the massive support and involvement of the community.
-
-To get started, check out <http://getbootstrap.com>!
+GenPic is a wonderful powerful tool to generate arty picutres in the SVG format, created by [Jürgen Wendt](httpxs:/dogxs.net). 
 
 
 ## Table of contents
@@ -29,7 +27,6 @@ Several quick start options are available:
 * Install with [Meteor](https://www.meteor.com): `meteor add twbs:bootstrap`.
 * Install with [Composer](https://getcomposer.org): `composer require twbs/bootstrap`.
 
-Read the [Getting started page](http://getbootstrap.com/getting-started/) for information on the framework contents, templates and examples, and more.
 
 ### What's included
 
