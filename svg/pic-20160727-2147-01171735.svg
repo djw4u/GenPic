@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink/" width="21in" height="21in" viewBox="0 0 100 100" version="1.2">
+
+  <desc>Picture by J. Wendt</desc>
+  <!-- START Generator PARAMETERS in Json -->
+  <desc>{"params":{"colorid":427,"nr_of_figures":32,"figures":["rc",[["rect","polygon","circle","line"]]],"y":["ri",[-20,120]],"fill":["rc",[["#4353D3","#32D761","#D5C734","#D532CE","#D83144"]]],"transform":["rc",[[0,180]]],"structure":"RANDOM","x":["ri",[-20,120]],"opacity":["rc",[[0.6,0.4]]],"height":["rc",[[40,20]]],"palette":["#4353D3","#32D761","#D5C734","#D532CE","#D83144"],"stroke":["rc",[["#4353D3","#32D761","#D5C734","#D532CE","#D83144"]]],"width":["rc",[[50,10]]],"stroke-linecap":["rc",[["round"]]],"stroke-width":["rc",[[6,4]]],"stroke-opacity":["rc",[[0.8,0.6]]]}}</desc>
+  <!-- END Generator PARAMETERS in Json -->
+  
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect id="bg-00" x="0" y="0" width="100" height="100" fill="grey" opacity=".4" stroke="goldenrod" stroke-opacity=".3" stroke-width="0.1"/>
+
+<rect fill="#4353D3" height="20" opacity="0.4" stroke="#4353D3" stroke-linecap="round" stroke-opacity="0.8" stroke-width="6" transform="rotate(0, 105.0, 98.0)" width="10" x="100" y="88"/>
+<circle fill="#D532CE" opacity="0.4" stroke="#D532CE" stroke-linecap="round" stroke-opacity="0.8" stroke-width="4" r="10.00" cx="14.00" cy="37.00"/>
+<rect fill="#4353D3" height="40" opacity="0.4" stroke="#32D761" stroke-linecap="round" stroke-opacity="0.8" stroke-width="6" transform="rotate(180, 48.0, 116.0)" width="10" x="43" y="96"/>
+<rect fill="#D83144" height="20" opacity="0.6" stroke="#D532CE" stroke-linecap="round" stroke-opacity="0.8" stroke-width="6" transform="rotate(0, 128.0, -4.0)" width="50" x="103" y="-14"/>
+<circle fill="#4353D3" opacity="0.4" stroke="#D5C734" stroke-linecap="round" stroke-opacity="0.8" stroke-width="4" r="25.00" cx="23.00" cy="101.00"/>
+<polygon fill="#D83144" opacity="0.4" stroke="#4353D3" stroke-linecap="round" stroke-opacity="0.6" stroke-width="6" transform="rotate(180, 80.0, 85.0)" points="75.00,75.00 95.00,75.00 85.00,92.32"/>
+<rect fill="#32D761" height="20" opacity="0.6" stroke="#D83144" stroke-linecap="round" stroke-opacity="0.8" stroke-width="6" transform="rotate(180, 96.0, -10.0)" width="10" x="91" y="-20"/>
+<line fill="#32D761" opacity="0.4" stroke="#D532CE" stroke-linecap="round" stroke-opacity="0.8" stroke-width="4" x1="36" x2="64" y1="10" y2="10"/>
+<circle fill="#D532CE" opacity="0.6" stroke="#D5C734" stroke-linecap="round" stroke-opacity="0.6" stroke-width="6" r="25.00" cx="15.00" cy="128.00"/>
+<rect fill="#D83144" height="40" opacity="0.4" stroke="#D5C734" stroke-linecap="round" stroke-opacity="0.8" stroke-width="6" transform="rotate(0, 107.0, 52.0)" width="10" x="102" y="32"/>
+<circle fill="#D83144" opacity="0.6" stroke="#D532CE" stroke-linecap="round" stroke-opacity="0.8" stroke-width="6" r="25.00" cx="56.00" cy="129.00"/>
+<line fill="#D83144" opacity="0.6" stroke="#4353D3" stroke-linecap="round" stroke-opacity="0.6" stroke-width="4" x1="51" x2="65" y1="22" y2="22"/>
+<circle fill="#4353D3" opacity="0.6" stroke="#D5C734" stroke-linecap="round" stroke-opacity="0.8" stroke-width="4" r="20.00" cx="119.00" cy="111.00"/>
+<rect fill="#D532CE" height="20" opacity="0.6" stroke="#32D761" stroke-linecap="round" stroke-opacity="0.8" stroke-width="6" transform="rotate(180, 72.0, 36.0)" width="50" x="47" y="26"/>
+<line fill="#D5C734" opacity="0.6" stroke="#32D761" stroke-linecap="round" stroke-opacity="0.6" stroke-width="4" x1="29" x2="2" y1="34" y2="34"/>
+<circle fill="#D5C734" opacity="0.6" stroke="#D83144" stroke-linecap="round" stroke-opacity="0.8" stroke-width="4" r="10.00" cx="-3.00" cy="122.00"/>
+<polygon fill="#32D761" opacity="0.6" stroke="#D532CE" stroke-linecap="round" stroke-opacity="0.8" stroke-width="4" transform="rotate(180, 117.0, 73.0)" points="92.00,63.00 112.00,63.00 102.00,80.32"/>
+<rect fill="#32D761" height="40" opacity="0.6" stroke="#32D761" stroke-linecap="round" stroke-opacity="0.6" stroke-width="4" transform="rotate(0, 84.0, 41.0)" width="10" x="79" y="21"/>
+<rect fill="#D83144" height="20" opacity="0.6" stroke="#D5C734" stroke-linecap="round" stroke-opacity="0.8" stroke-width="6" transform="rotate(180, 19.0, 95.0)" width="10" x="14" y="85"/>
+<line fill="#D532CE" opacity="0.4" stroke="#D532CE" stroke-linecap="round" stroke-opacity="0.6" stroke-width="6" x1="6" x2="12" y1="46" y2="46"/>
+<circle fill="#D532CE" opacity="0.4" stroke="#32D761" stroke-linecap="round" stroke-opacity="0.6" stroke-width="6" r="20.00" cx="9.00" cy="28.00"/>
+<circle fill="#D532CE" opacity="0.6" stroke="#D532CE" stroke-linecap="round" stroke-opacity="0.8" stroke-width="6" r="25.00" cx="97.00" cy="95.00"/>
+<circle fill="#32D761" opacity="0.6" stroke="#D5C734" stroke-linecap="round" stroke-opacity="0.8" stroke-width="4" r="10.00" cx="68.00" cy="-7.00"/>
+<circle fill="#D5C734" opacity="0.4" stroke="#32D761" stroke-linecap="round" stroke-opacity="0.6" stroke-width="6" r="25.00" cx="117.00" cy="66.00"/>
+<circle fill="#4353D3" opacity="0.4" stroke="#D5C734" stroke-linecap="round" stroke-opacity="0.8" stroke-width="6" r="25.00" cx="25.00" cy="47.00"/>
+<rect fill="#D5C734" height="20" opacity="0.6" stroke="#D5C734" stroke-linecap="round" stroke-opacity="0.8" stroke-width="4" transform="rotate(0, 121.0, 107.0)" width="10" x="116" y="97"/>
+<rect fill="#4353D3" height="20" opacity="0.6" stroke="#32D761" stroke-linecap="round" stroke-opacity="0.6" stroke-width="6" transform="rotate(180, 49.0, 72.0)" width="50" x="24" y="62"/>
+<line fill="#D83144" opacity="0.4" stroke="#32D761" stroke-linecap="round" stroke-opacity="0.8" stroke-width="6" x1="42" x2="57" y1="58" y2="58"/>
+<circle fill="#4353D3" opacity="0.6" stroke="#32D761" stroke-linecap="round" stroke-opacity="0.6" stroke-width="4" r="20.00" cx="54.00" cy="25.00"/>
+<polygon fill="#D5C734" opacity="0.4" stroke="#D5C734" stroke-linecap="round" stroke-opacity="0.8" stroke-width="6" transform="rotate(180, 70.0, 118.0)" points="45.00,108.00 65.00,108.00 55.00,125.32"/>
+<line fill="#D532CE" opacity="0.4" stroke="#4353D3" stroke-linecap="round" stroke-opacity="0.6" stroke-width="6" x1="64" x2="85" y1="70" y2="70"/>
+<circle fill="#D83144" opacity="0.4" stroke="#D83144" stroke-linecap="round" stroke-opacity="0.6" stroke-width="6" r="20.00" cx="72.00" cy="129.00"/>
+</svg>
