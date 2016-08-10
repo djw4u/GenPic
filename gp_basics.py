@@ -23,34 +23,35 @@ FIGURES = ('rect', 'circle', 'polygon', 'line')
 #!!! PICTURE_ATTRIBS = ('nr_of_figures', 'pic_struct', 'figure')
 #!!! KEINE GRID RANDOM CIRCLE UND SPIRAL STRUKTUREN IMPLEMNTIERT
 
-# attributes which position the SVG elements 
+# special attributes for different figures which position the SVG elements 
 LINE_ATTRIBS =  ('x1', 'x2', 'y1', 'y2')
 FIGURE_ATTRIBS = ('x', 'y', 'height', 'width')
 
-# supported SVG 'style' attributes
+# supported SVG 'style' attributes for figures
 SVG_ATTRIBS = ('fill', 'opacity', 'stroke',
                'stroke-opacity', 'stroke-width', 'stroke-linecap')
 
-# define the standard input for the pictures SVG template size, background ...
+# define the SVG pictures size, background the basic SVG jinja2 template   
 PIC_ATTRIBS = {'svg_width':'21in', 'svg_height':'21in',
         'w_points':'100', 'h_points':'100',
         'fill':'white', 'opacity':'1.',
         'stroke':'goldenrod',
         'stroke_opacity':'.7', 'stroke_width':'.5'}
 
+# The basic jinja2 template to generate the SVG picture
 jinja2_template ="""<?xml version="1.0" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink/" 
-    width="{{svg_width}}" height="{{svg_height}}" 
+    width="{{svg_width}}" height="{{svg_height}}"
 viewBox="0 0 {{w_points}} {{h_points}}" version="1.2">
 
   <desc>Picture by J. Wendt</desc>
   <!-- START Generator PARAMETERS in Json -->
   <desc>{{gen_params}}</desc>
   <!-- END Generator PARAMETERS in Json -->
-  
+
   <!-- Show outline of canvas using 'rect' element -->
-  <rect id="bg-00" x="0" y="0" width="{{w_points}}" height="{{h_points}}" fill="{{fill}}" 
-    opacity="{{opacity}}" 
+  <rect id="bg-00" x="0" y="0" width="{{w_points}}" height="{{h_points}}" fill="{{fill}}"
+    opacity="{{opacity}}"
   stroke="{{stroke}}" stroke-opacity="{{stroke_opacity}}" stroke-width="{{stroke_width}}"/>
 
 </svg>
@@ -58,6 +59,7 @@ viewBox="0 0 {{w_points}} {{h_points}}" version="1.2">
 
 #--------------------------file function------------------------------#
 def timestamp():
+    """Return a timestamp  of the form YYYYMMDD-HHMM-SSSSSS"""
     return datetime.now().strftime('%Y%m%d-%H%M-%S%f')
 
 def create_output_directory(root = '', form = 'triangle'):
@@ -67,10 +69,9 @@ def create_output_directory(root = '', form = 'triangle'):
 
 
 def tofile(fname, content):
-    """write content to file fname """
-    f = open(fname, 'wt')
-    f.write(content)
-    f.close()
+    """write string based content to file fname """
+    with open(fname, 'wt') as f:
+     f.write(content)
 
 
 def fromfile(fname):
@@ -131,17 +132,19 @@ def create_triangle(x1,y1, l):
 
 #-----------------------coordinate functions------------------------------#
 def new_0_coord(pos, new_0 =(40., 55.)):
-    """Transform a point to a cartesian coordinate system with new_0 as zero point"""
+    """Transform a pos to a cartesian coordinate system with new_0 as zero point"""
     return [new_0[i] + pos[i] for i in [0, 1]]
 
 
 def polar2cartesian(r, theta):
+    """ Transform a polar position r, theta to a cartesian point (x, y)"""
     x = r * cos(theta)
     y = r * sin(theta)
     return (x, y)
 
 
 def round_coord_2(p):
+    """round a 2-dim point p to 2 digits"""
     return ( round(p[0], 2), round(p[1], 2) )
 
 #-----------------------structurial functions------------------------------#
@@ -230,6 +233,7 @@ def get_palette(palette_id):
 
 
 class Figure(object):
+    """ Figure creates SVG elements for the picture like rectangle, circle, triangle or lines """
 
     def __init__(self, figure, params):
         self.figure = figure
@@ -239,10 +243,8 @@ class Figure(object):
             self.mandatory_attribs = FIGURE_ATTRIBS
         self.params = params
         self.attribs = {}
-
         self.checked = self.set_and_check_mandatory_attributes()
         self.set_attributes()
-
 
     def set_and_check_mandatory_attributes(self):
         if not self.figure in FIGURES:
@@ -255,8 +257,8 @@ class Figure(object):
                 break
         return ok
 
-
     def set_attributes(self):
+        """The random/algorithm based SVG attributes creation is done here"""
         for attr in self.params:
             if (attr in self.mandatory_attribs) or (attr in SVG_ATTRIBS):
                 v = self.params[attr]
@@ -266,17 +268,27 @@ class Figure(object):
                 *[self.attribs[k] for k in ('x','y','width','height')],
                 values = self.params['transform'])
 
-
     def attribs_to_string(self):
         return {k: str(v) for k, v in self.attribs.items()}
 
 
 class SVGPicture(object):
+    """SVGPicture creates the SVG Picture. Iz is the hull for the figures created
+by the class Figure"""
 
     def __init__(self, params, pic_attribs=PIC_ATTRIBS):
         self.pic_attribs = pic_attribs
         self.params = params
         self.create_picture()
+
+
+    def set_svg_root(self, template_id=4):
+        #load the SVG-template to jinja2
+        template = jinja2.Template(jinja2_template)
+        self.pic_attribs['gen_params'] = self.params_to_json()
+        svg_base = template.render(self.pic_attribs)
+        # Create a basic SVG/XML root
+        self.root = etree.fromstring(svg_base)
 
 
     def create_picture(self):
@@ -291,15 +303,6 @@ class SVGPicture(object):
         self.fit_svg_polygons()
 
 
-    def add_figures(self, figures):
-        for fig in figures:
-            self.root.append(etree.Element(fig,
-                    attrib= Figure(fig, self.params).attributes_to_str()))
-        self.fit_svg_circles()
-        self.fit_svg_polygons()
-        self.new_image = True
-
-
     def set_svg_root(self, template_id=4):
         #load the SVG-template to jinja2
         template = jinja2.Template(jinja2_template)
@@ -307,6 +310,15 @@ class SVGPicture(object):
         svg_base = template.render(self.pic_attribs)
         # Create a basic SVG/XML root
         self.root = etree.fromstring(svg_base)
+
+
+    def add_figures(self, figures):
+        for fig in figures:
+            self.root.append(etree.Element(fig,
+                    attrib= Figure(fig, self.params).attributes_to_str()))
+        self.fit_svg_circles()
+        self.fit_svg_polygons()
+        self.new_image = True
 
 
     def fit_svg_circles(self):
