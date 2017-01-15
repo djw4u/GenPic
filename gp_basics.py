@@ -221,8 +221,9 @@ def svg_rotate(x, y, w, h,  values=('rc', ((0,90), ))):
 
 # functions are callable by dict keys
 RM_FUNCTION = {'ri': random.randint,
+               'rr': random.randrange,
                'rc': random.choice,
-               'ro': svg_rotate,
+#              'ro': svg_rotate,
                'ar': fifo_func}
 
 
