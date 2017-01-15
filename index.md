@@ -1,4 +1,7 @@
-### Welcome to GitHub Pages.
+### Welcome to GitHub Pages.  GenPic and this page are still under construction. 
+
+# Actually this page acts as a placeholder 
+
 This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
 
 ![&copy; Jürgen Wendt, 2016](http://djw4u.github.com/GenPic/images/pic-20160725-1613-42723102.svg)
