@@ -19,4 +19,5 @@ If you prefer to not use the automatic generator, create a page manually. GenPic
 ### Authors and Contributors
 
 ### Support or Contact
-Having trouble with GenPic? Check out our [documentation](https://djw4u.github.io/help) or [contact support](https://djw4u.github.io/contact) and we’ll help you sort it out.
+Having trouble with GenPic? Links doesn't work yet.
+Check out our [documentation](https://djw4u.github.io/help) or [contact support](https://djw4u.github.io/contact) and we’ll help you sort it out.
