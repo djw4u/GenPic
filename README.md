@@ -1,5 +1,5 @@
-# GenPic - under heavy construction
-## actually documentation and coding not synced and not in an usable state.
+# GenPic - under construction
+## actually documentation and coding are not in an usable state.
 ## Be patient or contact the project owner
 
 
@@ -20,9 +20,9 @@ Choose how to store the generated pictures and data
 
 ## A short overview of the files of the project
 
-### The IPytohn notebooks (ipynb)
+### The IPython notebooks (ipynb)
 
-1. *GPGH01-Show-Palettes* visualizes the color palettes of the file *color-palettes.data*.
+1. *GPGH01-Show-Palettes* show the color palettes of the file *color-palettes.data*.
 
 2. *GPGH02-Picture-Generator*  generates SVG pictures using parameters to control:
    
@@ -30,7 +30,7 @@ Choose how to store the generated pictures and data
    * The form ,color, position and size of the picture elements.
 
 2. *GPGH03-Images-to-HTML* generates HTML based cataloges to navigate through
-   picture galeries by a webbrowser. 
+   picture galeries within a webbrowser. 
 
 2. *GPGH04-Manipulate-Images* manipulates existing pictures to create new ones.
 
@@ -39,4 +39,4 @@ Choose how to store the generated pictures and data
 1.  *color-palettes.data* provides nice color palettes in an Json format.
 2.  
 
-Visit the website of [GenPic](http://djw4u.github.io/GenPic/)
+Visit the website of [GenPic](http://djw4u.github.io/GenPic/).
