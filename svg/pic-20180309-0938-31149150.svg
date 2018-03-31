@@ -1,0 +1,108 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink/" width="20in" height="12in" viewBox="0 0 100 60" version="1.2">
+
+  <desc>Picture by J. Wendt</desc>
+  <!-- START Generator PARAMETERS in Json -->
+  <desc>{"params":{"structure":"RANDOM","nr_of_figures":96,"rows":12,"columns":6,"x":["ri",[-20,80]],"y":["ri",[-20,120]],"height":["rr",[5,34,4]],"width":["rr",[3,21,5]],"palette":["#68D6FD","#DD5F17","#DDC58A","#8F1B5C","#68A317","#0D0A2E","#3492A1","#D0D6CF"],"figures":["rc",[["polygon","circle","rect"]]],"fill":["rc",[["#68D6FD","#DD5F17","#DDC58A","#8F1B5C","#68A317","#0D0A2E","#3492A1","#D0D6CF"]]],"stroke":["rc",[["#68D6FD","#DD5F17","#DDC58A","#8F1B5C","#68A317","#0D0A2E","#3492A1","#D0D6CF"]]],"stroke-opacity":["rc",[[0.2,0.3,1]]],"stroke-width":["ri",[10,25]]}}</desc>
+  <!-- END Generator PARAMETERS in Json -->
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect id="bg-00" x="0" y="0" width="100" height="60" fill="#DDC58A" opacity=".3" stroke="#32A0A5" stroke-opacity=".3" stroke-width="0.1"/>
+
+<rect fill="#0D0A2E" height="17" stroke="#DD5F17" stroke-opacity="0.3" stroke-width="24" width="3" x="-15" y="-6"/>
+<polygon fill="#68A317" stroke="#8F1B5C" stroke-opacity="1" stroke-width="15" points="52.00,80.00 85.00,80.00 68.50,108.58"/>
+<polygon fill="#DDC58A" stroke="#DD5F17" stroke-opacity="1" stroke-width="20" points="57.00,61.00 74.00,61.00 65.50,75.72"/>
+<rect fill="#DD5F17" height="17" stroke="#68A317" stroke-opacity="0.3" stroke-width="16" width="8" x="69" y="108"/>
+<polygon fill="#DDC58A" stroke="#DDC58A" stroke-opacity="1" stroke-width="10" points="45.00,79.00 58.00,79.00 51.50,90.26"/>
+<rect fill="#D0D6CF" height="29" stroke="#68D6FD" stroke-opacity="1" stroke-width="16" width="8" x="29" y="98"/>
+<rect fill="#3492A1" height="33" stroke="#0D0A2E" stroke-opacity="0.2" stroke-width="14" width="18" x="36" y="114"/>
+<circle fill="#68A317" stroke="#DD5F17" stroke-opacity="0.2" stroke-width="16" r="9.00" cx="4.00" cy="55.00"/>
+<circle fill="#3492A1" stroke="#8F1B5C" stroke-opacity="1" stroke-width="10" r="16.50" cx="46.50" cy="84.50"/>
+<rect fill="#DD5F17" height="5" stroke="#DD5F17" stroke-opacity="1" stroke-width="20" width="13" x="9" y="-7"/>
+<polygon fill="#3492A1" stroke="#8F1B5C" stroke-opacity="1" stroke-width="10" points="-6.00,103.00 -1.00,103.00 -3.50,107.33"/>
+<polygon fill="#DDC58A" stroke="#3492A1" stroke-opacity="0.3" stroke-width="20" points="57.00,82.00 62.00,82.00 59.50,86.33"/>
+<rect fill="#68A317" height="9" stroke="#68D6FD" stroke-opacity="1" stroke-width="22" width="18" x="-4" y="27"/>
+<circle fill="#68D6FD" stroke="#8F1B5C" stroke-opacity="1" stroke-width="11" r="9.00" cx="12.00" cy="115.00"/>
+<polygon fill="#DDC58A" stroke="#68A317" stroke-opacity="0.2" stroke-width="14" points="20.00,47.00 25.00,47.00 22.50,51.33"/>
+<polygon fill="#3492A1" stroke="#0D0A2E" stroke-opacity="0.3" stroke-width="13" points="5.00,94.00 34.00,94.00 19.50,119.11"/>
+<polygon fill="#DD5F17" stroke="#D0D6CF" stroke-opacity="0.2" stroke-width="13" points="73.00,28.00 94.00,28.00 83.50,46.19"/>
+<rect fill="#D0D6CF" height="21" stroke="#68A317" stroke-opacity="0.2" stroke-width="13" width="13" x="23" y="32"/>
+<circle fill="#D0D6CF" stroke="#DDC58A" stroke-opacity="0.2" stroke-width="22" r="4.50" cx="-15.50" cy="-1.50"/>
+<circle fill="#0D0A2E" stroke="#3492A1" stroke-opacity="1" stroke-width="20" r="2.50" cx="69.50" cy="7.50"/>
+<polygon fill="#0D0A2E" stroke="#DDC58A" stroke-opacity="0.2" stroke-width="14" points="-17.00,90.00 -8.00,90.00 -12.50,97.79"/>
+<circle fill="#68D6FD" stroke="#DDC58A" stroke-opacity="0.2" stroke-width="16" r="4.00" cx="-16.00" cy="58.00"/>
+<rect fill="#DD5F17" height="33" stroke="#68A317" stroke-opacity="1" stroke-width="15" width="3" x="-2" y="106"/>
+<rect fill="#DD5F17" height="33" stroke="#DD5F17" stroke-opacity="0.3" stroke-width="23" width="8" x="-4" y="9"/>
+<circle fill="#D0D6CF" stroke="#D0D6CF" stroke-opacity="0.3" stroke-width="23" r="14.50" cx="76.50" cy="115.50"/>
+<polygon fill="#68A317" stroke="#8F1B5C" stroke-opacity="1" stroke-width="13" points="20.00,58.00 41.00,58.00 30.50,76.19"/>
+<polygon fill="#DDC58A" stroke="#DDC58A" stroke-opacity="0.2" stroke-width="25" points="35.00,33.00 44.00,33.00 39.50,40.79"/>
+<rect fill="#68D6FD" height="13" stroke="#68A317" stroke-opacity="0.2" stroke-width="25" width="8" x="24" y="-16"/>
+<polygon fill="#DDC58A" stroke="#8F1B5C" stroke-opacity="0.2" stroke-width="25" points="11.00,1.00 40.00,1.00 25.50,26.11"/>
+<polygon fill="#DD5F17" stroke="#8F1B5C" stroke-opacity="0.3" stroke-width="15" points="35.00,75.00 48.00,75.00 41.50,86.26"/>
+<circle fill="#3492A1" stroke="#8F1B5C" stroke-opacity="0.2" stroke-width="16" r="12.50" cx="64.50" cy="67.50"/>
+<rect fill="#3492A1" height="25" stroke="#68A317" stroke-opacity="0.2" stroke-width="12" width="8" x="55" y="100"/>
+<polygon fill="#0D0A2E" stroke="#D0D6CF" stroke-opacity="0.2" stroke-width="13" points="-12.00,7.00 -7.00,7.00 -9.50,11.33"/>
+<polygon fill="#3492A1" stroke="#0D0A2E" stroke-opacity="0.2" stroke-width="14" points="67.00,72.00 96.00,72.00 81.50,97.11"/>
+<circle fill="#D0D6CF" stroke="#D0D6CF" stroke-opacity="0.3" stroke-width="13" r="16.50" cx="93.50" cy="29.50"/>
+<polygon fill="#68A317" stroke="#DD5F17" stroke-opacity="1" stroke-width="16" points="2.00,53.00 35.00,53.00 18.50,81.58"/>
+<circle fill="#DD5F17" stroke="#68D6FD" stroke-opacity="0.2" stroke-width="14" r="16.50" cx="89.50" cy="103.50"/>
+<polygon fill="#DDC58A" stroke="#DD5F17" stroke-opacity="0.2" stroke-width="19" points="26.00,108.00 47.00,108.00 36.50,126.19"/>
+<circle fill="#68A317" stroke="#DD5F17" stroke-opacity="1" stroke-width="15" r="6.50" cx="53.50" cy="68.50"/>
+<circle fill="#DD5F17" stroke="#DDC58A" stroke-opacity="1" stroke-width="23" r="6.50" cx="20.50" cy="11.50"/>
+<circle fill="#DD5F17" stroke="#8F1B5C" stroke-opacity="0.3" stroke-width="21" r="12.50" cx="18.50" cy="46.50"/>
+<polygon fill="#8F1B5C" stroke="#3492A1" stroke-opacity="0.2" stroke-width="15" points="23.00,66.00 48.00,66.00 35.50,87.65"/>
+<circle fill="#68A317" stroke="#D0D6CF" stroke-opacity="0.2" stroke-width="14" r="14.50" cx="55.50" cy="26.50"/>
+<polygon fill="#DD5F17" stroke="#DDC58A" stroke-opacity="0.3" stroke-width="15" points="-2.00,107.00 15.00,107.00 6.50,121.72"/>
+<circle fill="#68D6FD" stroke="#68D6FD" stroke-opacity="1" stroke-width="16" r="6.50" cx="72.50" cy="-9.50"/>
+<circle fill="#8F1B5C" stroke="#8F1B5C" stroke-opacity="0.2" stroke-width="10" r="4.50" cx="-10.50" cy="123.50"/>
+<circle fill="#DD5F17" stroke="#D0D6CF" stroke-opacity="1" stroke-width="12" r="8.50" cx="15.50" cy="97.50"/>
+<polygon fill="#68D6FD" stroke="#0D0A2E" stroke-opacity="0.2" stroke-width="25" points="80.00,69.00 97.00,69.00 88.50,83.72"/>
+<polygon fill="#0D0A2E" stroke="#8F1B5C" stroke-opacity="0.2" stroke-width="24" points="20.00,-10.00 49.00,-10.00 34.50,15.11"/>
+<circle fill="#3492A1" stroke="#68D6FD" stroke-opacity="0.2" stroke-width="16" r="14.50" cx="42.50" cy="-2.50"/>
+<circle fill="#8F1B5C" stroke="#3492A1" stroke-opacity="0.2" stroke-width="10" r="14.50" cx="15.50" cy="41.50"/>
+<rect fill="#DDC58A" height="25" stroke="#68D6FD" stroke-opacity="0.3" stroke-width="15" width="18" x="60" y="104"/>
+<polygon fill="#0D0A2E" stroke="#0D0A2E" stroke-opacity="0.2" stroke-width="10" points="26.00,-18.00 51.00,-18.00 38.50,3.65"/>
+<circle fill="#8F1B5C" stroke="#D0D6CF" stroke-opacity="1" stroke-width="15" r="4.50" cx="24.50" cy="34.50"/>
+<circle fill="#68A317" stroke="#8F1B5C" stroke-opacity="0.2" stroke-width="19" r="16.50" cx="80.50" cy="33.50"/>
+<circle fill="#DDC58A" stroke="#68D6FD" stroke-opacity="0.2" stroke-width="10" r="6.50" cx="67.50" cy="43.50"/>
+<circle fill="#3492A1" stroke="#68A317" stroke-opacity="0.3" stroke-width="16" r="12.50" cx="56.50" cy="107.50"/>
+<rect fill="#D0D6CF" height="5" stroke="#DD5F17" stroke-opacity="0.3" stroke-width="17" width="3" x="2" y="90"/>
+<polygon fill="#DDC58A" stroke="#DDC58A" stroke-opacity="0.3" stroke-width="25" points="-20.00,-9.00 5.00,-9.00 -7.50,12.65"/>
+<polygon fill="#DDC58A" stroke="#DDC58A" stroke-opacity="0.2" stroke-width="21" points="58.00,36.00 79.00,36.00 68.50,54.19"/>
+<rect fill="#DD5F17" height="25" stroke="#DDC58A" stroke-opacity="0.3" stroke-width="25" width="3" x="17" y="68"/>
+<circle fill="#8F1B5C" stroke="#3492A1" stroke-opacity="0.2" stroke-width="20" r="10.50" cx="38.50" cy="103.50"/>
+<circle fill="#3492A1" stroke="#0D0A2E" stroke-opacity="0.2" stroke-width="18" r="6.50" cx="14.50" cy="-5.50"/>
+<circle fill="#68A317" stroke="#DD5F17" stroke-opacity="0.3" stroke-width="17" r="8.50" cx="6.50" cy="-2.50"/>
+<circle fill="#8F1B5C" stroke="#68D6FD" stroke-opacity="0.3" stroke-width="12" r="6.50" cx="24.50" cy="41.50"/>
+<rect fill="#D0D6CF" height="13" stroke="#0D0A2E" stroke-opacity="0.3" stroke-width="17" width="3" x="79" y="42"/>
+<circle fill="#3492A1" stroke="#D0D6CF" stroke-opacity="1" stroke-width="17" r="9.00" cx="20.00" cy="87.00"/>
+<circle fill="#3492A1" stroke="#D0D6CF" stroke-opacity="1" stroke-width="20" r="9.00" cx="89.00" cy="53.00"/>
+<rect fill="#8F1B5C" height="21" stroke="#68D6FD" stroke-opacity="0.3" stroke-width="15" width="13" x="39" y="-4"/>
+<polygon fill="#8F1B5C" stroke="#68A317" stroke-opacity="1" stroke-width="17" points="-15.00,70.00 -6.00,70.00 -10.50,77.79"/>
+<circle fill="#DD5F17" stroke="#68D6FD" stroke-opacity="0.3" stroke-width="13" r="4.00" cx="60.00" cy="41.00"/>
+<rect fill="#68D6FD" height="9" stroke="#D0D6CF" stroke-opacity="0.3" stroke-width="15" width="8" x="61" y="46"/>
+<circle fill="#DDC58A" stroke="#0D0A2E" stroke-opacity="1" stroke-width="25" r="4.50" cx="29.50" cy="81.50"/>
+<circle fill="#DD5F17" stroke="#DD5F17" stroke-opacity="1" stroke-width="23" r="9.00" cx="-9.00" cy="-9.00"/>
+<rect fill="#DDC58A" height="33" stroke="#8F1B5C" stroke-opacity="1" stroke-width="22" width="8" x="62" y="43"/>
+<rect fill="#0D0A2E" height="9" stroke="#D0D6CF" stroke-opacity="0.3" stroke-width="24" width="13" x="50" y="-9"/>
+<rect fill="#8F1B5C" height="17" stroke="#68D6FD" stroke-opacity="1" stroke-width="18" width="3" x="23" y="-10"/>
+<rect fill="#DD5F17" height="13" stroke="#D0D6CF" stroke-opacity="1" stroke-width="15" width="8" x="44" y="104"/>
+<rect fill="#68D6FD" height="9" stroke="#DDC58A" stroke-opacity="1" stroke-width="14" width="8" x="38" y="117"/>
+<circle fill="#DDC58A" stroke="#68A317" stroke-opacity="0.3" stroke-width="18" r="6.50" cx="75.50" cy="89.50"/>
+<rect fill="#3492A1" height="29" stroke="#DDC58A" stroke-opacity="1" stroke-width="14" width="8" x="21" y="120"/>
+<polygon fill="#8F1B5C" stroke="#0D0A2E" stroke-opacity="1" stroke-width="20" points="-3.00,26.00 26.00,26.00 11.50,51.11"/>
+<circle fill="#8F1B5C" stroke="#68D6FD" stroke-opacity="0.3" stroke-width="14" r="8.50" cx="18.50" cy="51.50"/>
+<polygon fill="#0D0A2E" stroke="#8F1B5C" stroke-opacity="1" stroke-width="25" points="39.00,29.00 60.00,29.00 49.50,47.19"/>
+<polygon fill="#0D0A2E" stroke="#68D6FD" stroke-opacity="0.3" stroke-width="23" points="71.00,-11.00 80.00,-11.00 75.50,-3.21"/>
+<rect fill="#0D0A2E" height="33" stroke="#68D6FD" stroke-opacity="1" stroke-width="16" width="18" x="3" y="93"/>
+<circle fill="#68D6FD" stroke="#68D6FD" stroke-opacity="0.3" stroke-width="20" r="6.50" cx="-7.50" cy="113.50"/>
+<circle fill="#DD5F17" stroke="#8F1B5C" stroke-opacity="0.3" stroke-width="14" r="6.50" cx="71.50" cy="62.50"/>
+<polygon fill="#8F1B5C" stroke="#0D0A2E" stroke-opacity="0.2" stroke-width="16" points="45.00,43.00 78.00,43.00 61.50,71.58"/>
+<circle fill="#8F1B5C" stroke="#DDC58A" stroke-opacity="1" stroke-width="19" r="6.50" cx="51.50" cy="85.50"/>
+<rect fill="#3492A1" height="25" stroke="#0D0A2E" stroke-opacity="0.2" stroke-width="12" width="3" x="-12" y="37"/>
+<rect fill="#DD5F17" height="29" stroke="#68D6FD" stroke-opacity="0.3" stroke-width="11" width="3" x="-3" y="-14"/>
+<polygon fill="#DDC58A" stroke="#DD5F17" stroke-opacity="0.3" stroke-width="17" points="12.00,90.00 33.00,90.00 22.50,108.19"/>
+<circle fill="#DD5F17" stroke="#DDC58A" stroke-opacity="1" stroke-width="17" r="2.50" cx="-6.50" cy="-7.50"/>
+<rect fill="#D0D6CF" height="5" stroke="#DDC58A" stroke-opacity="0.3" stroke-width="17" width="18" x="-7" y="61"/>
+<rect fill="#DD5F17" height="13" stroke="#DD5F17" stroke-opacity="0.2" stroke-width="16" width="3" x="14" y="46"/>
+</svg>

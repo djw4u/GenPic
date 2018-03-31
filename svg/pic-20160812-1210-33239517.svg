@@ -1,0 +1,168 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink/" width="21in" height="21in" viewBox="0 0 100 100" version="1.2">
+
+  <desc>Picture by J. Wendt</desc>
+  <!-- START Generator PARAMETERS in Json -->
+  <desc>{"params":{"opacity":["rc",[[0.6,0.8]]],"width":["rc",[[20,10,40]]],"height":["rc",[[20,10,5]]],"stroke":["rc",[["rgb(125, 160, 55)","rgb(150, 10, 165)","rgb(50, 10, 110)","rgb(0, 135, 220)","rgb(50, 10, 220)","rgb(50, 135, 0)","rgb(175, 185, 165)","rgb(100, 135, 165)","rgb(225, 160, 0)"]]],"stroke-opacity":["rc",[[0.8,0.6]]],"nr_of_figures":156,"y":["ri",[-20,120]],"stroke-width":["rc",[[6,4]]],"x":["ri",[-20,120]],"transform":["rc",[[0,180,90,270]]],"fill":["rc",[["rgb(125, 160, 55)","rgb(150, 10, 165)","rgb(50, 10, 110)","rgb(0, 135, 220)","rgb(50, 10, 220)","rgb(50, 135, 0)","rgb(175, 185, 165)","rgb(100, 135, 165)","rgb(225, 160, 0)"]]],"figures":["rc",[["polygon","rect","circle","line"]]],"structure":"RANDOM","palette":["rgb(125, 160, 55)","rgb(150, 10, 165)","rgb(50, 10, 110)","rgb(0, 135, 220)","rgb(50, 10, 220)","rgb(50, 135, 0)","rgb(175, 185, 165)","rgb(100, 135, 165)","rgb(225, 160, 0)"],"colorid":651}}</desc>
+  <!-- END Generator PARAMETERS in Json -->
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect id="bg-00" x="0" y="0" width="100" height="100" fill="grey" opacity=".8" stroke="white" stroke-opacity=".3" stroke-width="0.1"/>
+
+<rect fill="rgb(125, 160, 55)" height="5" opacity="0.6" stroke="rgb(50, 10, 220)" stroke-opacity="0.8" stroke-width="6" transform="rotate(180, 84.0, 70.5)" width="40" x="64" y="68"/>
+<rect fill="rgb(225, 160, 0)" height="10" opacity="0.8" stroke="rgb(50, 10, 110)" stroke-opacity="0.8" stroke-width="6" transform="rotate(180, 102.0, 46.0)" width="40" x="82" y="41"/>
+<circle fill="rgb(100, 135, 165)" opacity="0.6" stroke="rgb(125, 160, 55)" stroke-opacity="0.6" stroke-width="6" r="5.00" cx="17.00" cy="49.00"/>
+<circle fill="rgb(50, 135, 0)" opacity="0.8" stroke="rgb(125, 160, 55)" stroke-opacity="0.6" stroke-width="4" r="5.00" cx="89.00" cy="38.00"/>
+<polygon fill="rgb(175, 185, 165)" opacity="0.6" stroke="rgb(100, 135, 165)" stroke-opacity="0.6" stroke-width="6" transform="rotate(90, 39.0, 33.0)" points="19.00,23.00 39.00,23.00 29.00,40.32"/>
+<polygon fill="rgb(125, 160, 55)" opacity="0.6" stroke="rgb(125, 160, 55)" stroke-opacity="0.8" stroke-width="4" transform="rotate(180, 81.0, -5.0)" points="61.00,-15.00 81.00,-15.00 71.00,2.32"/>
+<line fill="rgb(125, 160, 55)" opacity="0.8" stroke="rgb(175, 185, 165)" stroke-opacity="0.8" stroke-width="4" x1="5" x2="98" y1="10" y2="10"/>
+<rect fill="rgb(150, 10, 165)" height="10" opacity="0.6" stroke="rgb(50, 135, 0)" stroke-opacity="0.8" stroke-width="4" transform="rotate(180, 131.0, 12.0)" width="40" x="111" y="7"/>
+<line fill="rgb(0, 135, 220)" opacity="0.8" stroke="rgb(225, 160, 0)" stroke-opacity="0.8" stroke-width="4" x1="5" x2="95" y1="22" y2="22"/>
+<circle fill="rgb(150, 10, 165)" opacity="0.6" stroke="rgb(125, 160, 55)" stroke-opacity="0.8" stroke-width="4" r="10.00" cx="127.00" cy="94.00"/>
+<line fill="rgb(175, 185, 165)" opacity="0.6" stroke="rgb(50, 10, 110)" stroke-opacity="0.6" stroke-width="6" x1="8" x2="100" y1="34" y2="34"/>
+<polygon fill="rgb(125, 160, 55)" opacity="0.8" stroke="rgb(150, 10, 165)" stroke-opacity="0.6" stroke-width="6" transform="rotate(180, 43.0, 81.0)" points="33.00,71.00 53.00,71.00 43.00,88.32"/>
+<rect fill="rgb(125, 160, 55)" height="10" opacity="0.8" stroke="rgb(150, 10, 165)" stroke-opacity="0.8" stroke-width="4" transform="rotate(180, 18.0, 9.0)" width="20" x="8" y="4"/>
+<circle fill="rgb(0, 135, 220)" opacity="0.6" stroke="rgb(175, 185, 165)" stroke-opacity="0.8" stroke-width="6" r="10.00" cx="99.00" cy="121.00"/>
+<line fill="rgb(100, 135, 165)" opacity="0.8" stroke="rgb(50, 10, 110)" stroke-opacity="0.6" stroke-width="6" x1="8" x2="95" y1="46" y2="46"/>
+<rect fill="rgb(100, 135, 165)" height="5" opacity="0.8" stroke="rgb(150, 10, 165)" stroke-opacity="0.6" stroke-width="6" transform="rotate(270, 76.0, 53.5)" width="10" x="71" y="51"/>
+<circle fill="rgb(125, 160, 55)" opacity="0.6" stroke="rgb(100, 135, 165)" stroke-opacity="0.8" stroke-width="6" r="5.00" cx="-2.00" cy="71.00"/>
+<circle fill="rgb(150, 10, 165)" opacity="0.6" stroke="rgb(100, 135, 165)" stroke-opacity="0.8" stroke-width="6" r="10.00" cx="3.00" cy="124.00"/>
+<circle fill="rgb(100, 135, 165)" opacity="0.8" stroke="rgb(150, 10, 165)" stroke-opacity="0.8" stroke-width="6" r="5.00" cx="65.00" cy="47.00"/>
+<circle fill="rgb(50, 10, 220)" opacity="0.6" stroke="rgb(0, 135, 220)" stroke-opacity="0.8" stroke-width="6" r="5.00" cx="33.00" cy="4.00"/>
+<circle fill="rgb(50, 10, 110)" opacity="0.6" stroke="rgb(100, 135, 165)" stroke-opacity="0.8" stroke-width="6" r="10.00" cx="79.00" cy="109.00"/>
+<circle fill="rgb(50, 10, 110)" opacity="0.8" stroke="rgb(175, 185, 165)" stroke-opacity="0.8" stroke-width="4" r="10.00" cx="119.00" cy="102.00"/>
+<rect fill="rgb(150, 10, 165)" height="10" opacity="0.8" stroke="rgb(50, 10, 220)" stroke-opacity="0.6" stroke-width="6" transform="rotate(270, 2.0, 113.0)" width="40" x="-18" y="108"/>
+<rect fill="rgb(125, 160, 55)" height="10" opacity="0.8" stroke="rgb(50, 10, 220)" stroke-opacity="0.6" stroke-width="4" transform="rotate(90, 92.0, 52.0)" width="20" x="82" y="47"/>
+<line fill="rgb(50, 10, 220)" opacity="0.6" stroke="rgb(150, 10, 165)" stroke-opacity="0.8" stroke-width="4" x1="15" x2="100" y1="58" y2="58"/>
+<polygon fill="rgb(175, 185, 165)" opacity="0.8" stroke="rgb(0, 135, 220)" stroke-opacity="0.8" stroke-width="4" transform="rotate(90, 16.0, 54.5)" points="11.00,52.00 16.00,52.00 13.50,56.33"/>
+<polygon fill="rgb(0, 135, 220)" opacity="0.6" stroke="rgb(50, 10, 220)" stroke-opacity="0.6" stroke-width="6" transform="rotate(180, 62.0, -14.5)" points="52.00,-17.00 57.00,-17.00 54.50,-12.67"/>
+<line fill="rgb(150, 10, 165)" opacity="0.6" stroke="rgb(175, 185, 165)" stroke-opacity="0.6" stroke-width="4" x1="15" x2="97" y1="70" y2="70"/>
+<line fill="rgb(0, 135, 220)" opacity="0.6" stroke="rgb(0, 135, 220)" stroke-opacity="0.8" stroke-width="4" x1="8" x2="100" y1="82" y2="82"/>
+<line fill="rgb(125, 160, 55)" opacity="0.8" stroke="rgb(50, 10, 110)" stroke-opacity="0.8" stroke-width="4" x1="8" x2="97" y1="94" y2="94"/>
+<circle fill="rgb(50, 135, 0)" opacity="0.6" stroke="rgb(225, 160, 0)" stroke-opacity="0.6" stroke-width="4" r="5.00" cx="79.00" cy="102.00"/>
+<rect fill="rgb(225, 160, 0)" height="10" opacity="0.6" stroke="rgb(125, 160, 55)" stroke-opacity="0.6" stroke-width="4" transform="rotate(90, 66.0, 91.0)" width="40" x="46" y="86"/>
+<circle fill="rgb(100, 135, 165)" opacity="0.6" stroke="rgb(50, 135, 0)" stroke-opacity="0.8" stroke-width="4" r="10.00" cx="47.00" cy="59.00"/>
+<line fill="rgb(50, 10, 220)" opacity="0.6" stroke="rgb(50, 10, 110)" stroke-opacity="0.6" stroke-width="6" x1="46" x2="98" y1="10" y2="10"/>
+<rect fill="rgb(150, 10, 165)" height="10" opacity="0.8" stroke="rgb(150, 10, 165)" stroke-opacity="0.8" stroke-width="4" transform="rotate(0, 20.0, 68.0)" width="10" x="15" y="63"/>
+<circle fill="rgb(0, 135, 220)" opacity="0.8" stroke="rgb(125, 160, 55)" stroke-opacity="0.8" stroke-width="6" r="20.00" cx="131.00" cy="1.00"/>
+<circle fill="rgb(175, 185, 165)" opacity="0.6" stroke="rgb(100, 135, 165)" stroke-opacity="0.6" stroke-width="4" r="10.00" cx="50.00" cy="35.00"/>
+<polygon fill="rgb(50, 10, 220)" opacity="0.8" stroke="rgb(150, 10, 165)" stroke-opacity="0.8" stroke-width="4" transform="rotate(270, 53.0, 114.0)" points="33.00,109.00 43.00,109.00 38.00,117.66"/>
+<polygon fill="rgb(0, 135, 220)" opacity="0.6" stroke="rgb(0, 135, 220)" stroke-opacity="0.6" stroke-width="6" transform="rotate(90, 68.0, 11.0)" points="48.00,6.00 58.00,6.00 53.00,14.66"/>
+<rect fill="rgb(100, 135, 165)" height="10" opacity="0.6" stroke="rgb(50, 10, 110)" stroke-opacity="0.8" stroke-width="4" transform="rotate(90, 102.0, -5.0)" width="40" x="82" y="-10"/>
+<polygon fill="rgb(50, 10, 220)" opacity="0.6" stroke="rgb(50, 10, 220)" stroke-opacity="0.6" stroke-width="4" transform="rotate(90, 38.0, 20.5)" points="18.00,18.00 23.00,18.00 20.50,22.33"/>
+<polygon fill="rgb(150, 10, 165)" opacity="0.8" stroke="rgb(50, 135, 0)" stroke-opacity="0.8" stroke-width="4" transform="rotate(270, -10.0, 16.0)" points="-20.00,6.00 0.00,6.00 -10.00,23.32"/>
+<line fill="rgb(50, 135, 0)" opacity="0.8" stroke="rgb(50, 10, 110)" stroke-opacity="0.6" stroke-width="6" x1="15" x2="100" y1="22" y2="22"/>
+<rect fill="rgb(50, 135, 0)" height="10" opacity="0.8" stroke="rgb(150, 10, 165)" stroke-opacity="0.8" stroke-width="4" transform="rotate(270, 58.0, 23.0)" width="10" x="53" y="18"/>
+<line fill="rgb(150, 10, 165)" opacity="0.6" stroke="rgb(225, 160, 0)" stroke-opacity="0.6" stroke-width="6" x1="35" x2="96" y1="34" y2="34"/>
+<rect fill="rgb(0, 135, 220)" height="5" opacity="0.8" stroke="rgb(175, 185, 165)" stroke-opacity="0.6" stroke-width="6" transform="rotate(180, 89.0, 113.5)" width="10" x="84" y="111"/>
+<rect fill="rgb(0, 135, 220)" height="10" opacity="0.8" stroke="rgb(0, 135, 220)" stroke-opacity="0.6" stroke-width="4" transform="rotate(90, 5.0, 16.0)" width="20" x="-5" y="11"/>
+<polygon fill="rgb(50, 135, 0)" opacity="0.8" stroke="rgb(225, 160, 0)" stroke-opacity="0.6" stroke-width="4" transform="rotate(90, 105.0, 105.0)" points="100.00,100.00 110.00,100.00 105.00,108.66"/>
+<rect fill="rgb(225, 160, 0)" height="10" opacity="0.8" stroke="rgb(225, 160, 0)" stroke-opacity="0.6" stroke-width="6" transform="rotate(270, 2.0, 95.0)" width="10" x="-3" y="90"/>
+<polygon fill="rgb(125, 160, 55)" opacity="0.6" stroke="rgb(100, 135, 165)" stroke-opacity="0.6" stroke-width="6" transform="rotate(180, 23.0, 26.0)" points="18.00,16.00 38.00,16.00 28.00,33.32"/>
+<polygon fill="rgb(100, 135, 165)" opacity="0.6" stroke="rgb(100, 135, 165)" stroke-opacity="0.8" stroke-width="4" transform="rotate(180, 83.0, -11.5)" points="78.00,-14.00 83.00,-14.00 80.50,-9.67"/>
+<polygon fill="rgb(125, 160, 55)" opacity="0.6" stroke="rgb(50, 10, 220)" stroke-opacity="0.6" stroke-width="6" transform="rotate(90, 41.0, -7.5)" points="31.00,-10.00 36.00,-10.00 33.50,-5.67"/>
+<rect fill="rgb(100, 135, 165)" height="20" opacity="0.6" stroke="rgb(100, 135, 165)" stroke-opacity="0.8" stroke-width="4" transform="rotate(90, 50.0, 83.0)" width="20" x="40" y="73"/>
+<circle fill="rgb(0, 135, 220)" opacity="0.8" stroke="rgb(125, 160, 55)" stroke-opacity="0.6" stroke-width="6" r="10.00" cx="40.00" cy="77.00"/>
+<line fill="rgb(100, 135, 165)" opacity="0.8" stroke="rgb(150, 10, 165)" stroke-opacity="0.6" stroke-width="4" x1="8" x2="97" y1="46" y2="46"/>
+<polygon fill="rgb(100, 135, 165)" opacity="0.6" stroke="rgb(100, 135, 165)" stroke-opacity="0.8" stroke-width="4" transform="rotate(0, 78.0, 118.0)" points="68.00,108.00 88.00,108.00 78.00,125.32"/>
+<circle fill="rgb(50, 10, 110)" opacity="0.6" stroke="rgb(50, 135, 0)" stroke-opacity="0.6" stroke-width="6" r="10.00" cx="77.00" cy="118.00"/>
+<circle fill="rgb(50, 135, 0)" opacity="0.8" stroke="rgb(175, 185, 165)" stroke-opacity="0.8" stroke-width="6" r="10.00" cx="36.00" cy="0.00"/>
+<line fill="rgb(175, 185, 165)" opacity="0.6" stroke="rgb(50, 135, 0)" stroke-opacity="0.8" stroke-width="4" x1="28" x2="95" y1="58" y2="58"/>
+<polygon fill="rgb(50, 135, 0)" opacity="0.6" stroke="rgb(50, 10, 110)" stroke-opacity="0.8" stroke-width="6" transform="rotate(180, 91.0, 26.0)" points="81.00,16.00 101.00,16.00 91.00,33.32"/>
+<rect fill="rgb(50, 10, 110)" height="5" opacity="0.8" stroke="rgb(50, 135, 0)" stroke-opacity="0.6" stroke-width="6" transform="rotate(180, 99.0, 5.5)" width="40" x="79" y="3"/>
+<circle fill="rgb(175, 185, 165)" opacity="0.6" stroke="rgb(100, 135, 165)" stroke-opacity="0.6" stroke-width="4" r="10.00" cx="28.00" cy="18.00"/>
+<line fill="rgb(50, 135, 0)" opacity="0.6" stroke="rgb(150, 10, 165)" stroke-opacity="0.8" stroke-width="4" x1="46" x2="98" y1="70" y2="70"/>
+<polygon fill="rgb(175, 185, 165)" opacity="0.6" stroke="rgb(50, 10, 110)" stroke-opacity="0.8" stroke-width="6" transform="rotate(90, 71.0, 0.5)" points="61.00,-2.00 66.00,-2.00 63.50,2.33"/>
+<line fill="rgb(50, 135, 0)" opacity="0.6" stroke="rgb(0, 135, 220)" stroke-opacity="0.8" stroke-width="6" x1="5" x2="95" y1="82" y2="82"/>
+<rect fill="rgb(50, 10, 220)" height="10" opacity="0.6" stroke="rgb(100, 135, 165)" stroke-opacity="0.6" stroke-width="4" transform="rotate(270, 52.0, 0.0)" width="40" x="32" y="-5"/>
+<line fill="rgb(0, 135, 220)" opacity="0.6" stroke="rgb(50, 10, 220)" stroke-opacity="0.8" stroke-width="6" x1="28" x2="98" y1="94" y2="94"/>
+<polygon fill="rgb(50, 10, 110)" opacity="0.6" stroke="rgb(50, 10, 220)" stroke-opacity="0.6" stroke-width="4" transform="rotate(90, 91.0, 68.0)" points="86.00,63.00 96.00,63.00 91.00,71.66"/>
+<circle fill="rgb(125, 160, 55)" opacity="0.8" stroke="rgb(225, 160, 0)" stroke-opacity="0.6" stroke-width="6" r="5.00" cx="21.00" cy="12.00"/>
+<line fill="rgb(225, 160, 0)" opacity="0.8" stroke="rgb(50, 135, 0)" stroke-opacity="0.8" stroke-width="4" x1="24" x2="99" y1="10" y2="10"/>
+<rect fill="rgb(125, 160, 55)" height="20" opacity="0.6" stroke="rgb(50, 10, 110)" stroke-opacity="0.8" stroke-width="6" transform="rotate(90, 76.0, 121.0)" width="20" x="66" y="111"/>
+<rect fill="rgb(50, 10, 110)" height="5" opacity="0.8" stroke="rgb(50, 135, 0)" stroke-opacity="0.8" stroke-width="6" transform="rotate(180, 59.0, 14.5)" width="10" x="54" y="12"/>
+<polygon fill="rgb(150, 10, 165)" opacity="0.6" stroke="rgb(50, 10, 110)" stroke-opacity="0.8" stroke-width="4" transform="rotate(0, 51.0, 72.0)" points="46.00,67.00 56.00,67.00 51.00,75.66"/>
+<polygon fill="rgb(100, 135, 165)" opacity="0.6" stroke="rgb(50, 10, 220)" stroke-opacity="0.8" stroke-width="6" transform="rotate(0, 112.0, 99.0)" points="102.00,89.00 122.00,89.00 112.00,106.32"/>
+<circle fill="rgb(50, 10, 220)" opacity="0.8" stroke="rgb(225, 160, 0)" stroke-opacity="0.6" stroke-width="6" r="5.00" cx="111.00" cy="10.00"/>
+<polygon fill="rgb(150, 10, 165)" opacity="0.6" stroke="rgb(125, 160, 55)" stroke-opacity="0.6" stroke-width="4" transform="rotate(180, 100.0, 30.0)" points="95.00,20.00 115.00,20.00 105.00,37.32"/>
+<circle fill="rgb(100, 135, 165)" opacity="0.8" stroke="rgb(225, 160, 0)" stroke-opacity="0.8" stroke-width="6" r="10.00" cx="19.00" cy="91.00"/>
+<rect fill="rgb(0, 135, 220)" height="5" opacity="0.8" stroke="rgb(0, 135, 220)" stroke-opacity="0.8" stroke-width="6" transform="rotate(0, 100.0, 37.5)" width="40" x="80" y="35"/>
+<rect fill="rgb(50, 10, 110)" height="5" opacity="0.6" stroke="rgb(225, 160, 0)" stroke-opacity="0.6" stroke-width="4" transform="rotate(90, 106.0, 10.5)" width="20" x="96" y="8"/>
+<polygon fill="rgb(225, 160, 0)" opacity="0.6" stroke="rgb(0, 135, 220)" stroke-opacity="0.8" stroke-width="6" transform="rotate(0, 56.0, 72.0)" points="36.00,67.00 46.00,67.00 41.00,75.66"/>
+<circle fill="rgb(50, 10, 220)" opacity="0.6" stroke="rgb(50, 10, 110)" stroke-opacity="0.6" stroke-width="4" r="10.00" cx="90.00" cy="13.00"/>
+<line fill="rgb(150, 10, 165)" opacity="0.8" stroke="rgb(150, 10, 165)" stroke-opacity="0.6" stroke-width="6" x1="46" x2="100" y1="22" y2="22"/>
+<line fill="rgb(150, 10, 165)" opacity="0.8" stroke="rgb(125, 160, 55)" stroke-opacity="0.6" stroke-width="4" x1="5" x2="97" y1="34" y2="34"/>
+<rect fill="rgb(50, 10, 110)" height="20" opacity="0.6" stroke="rgb(0, 135, 220)" stroke-opacity="0.8" stroke-width="6" transform="rotate(0, 60.0, 52.0)" width="10" x="55" y="42"/>
+<circle fill="rgb(225, 160, 0)" opacity="0.8" stroke="rgb(150, 10, 165)" stroke-opacity="0.8" stroke-width="4" r="20.00" cx="34.00" cy="122.00"/>
+<circle fill="rgb(0, 135, 220)" opacity="0.6" stroke="rgb(0, 135, 220)" stroke-opacity="0.6" stroke-width="6" r="20.00" cx="89.00" cy="73.00"/>
+<line fill="rgb(50, 10, 220)" opacity="0.6" stroke="rgb(50, 135, 0)" stroke-opacity="0.6" stroke-width="4" x1="4" x2="100" y1="46" y2="46"/>
+<polygon fill="rgb(125, 160, 55)" opacity="0.6" stroke="rgb(50, 10, 110)" stroke-opacity="0.6" stroke-width="6" transform="rotate(0, 59.0, -10.5)" points="39.00,-13.00 44.00,-13.00 41.50,-8.67"/>
+<polygon fill="rgb(125, 160, 55)" opacity="0.6" stroke="rgb(150, 10, 165)" stroke-opacity="0.8" stroke-width="4" transform="rotate(0, 35.0, 128.0)" points="25.00,118.00 45.00,118.00 35.00,135.32"/>
+<circle fill="rgb(50, 10, 220)" opacity="0.6" stroke="rgb(50, 10, 110)" stroke-opacity="0.6" stroke-width="4" r="10.00" cx="-10.00" cy="77.00"/>
+<rect fill="rgb(175, 185, 165)" height="10" opacity="0.6" stroke="rgb(100, 135, 165)" stroke-opacity="0.6" stroke-width="4" transform="rotate(180, 41.0, 2.0)" width="10" x="36" y="-3"/>
+<line fill="rgb(125, 160, 55)" opacity="0.6" stroke="rgb(150, 10, 165)" stroke-opacity="0.8" stroke-width="6" x1="46" x2="95" y1="58" y2="58"/>
+<rect fill="rgb(0, 135, 220)" height="10" opacity="0.8" stroke="rgb(50, 10, 110)" stroke-opacity="0.8" stroke-width="4" transform="rotate(270, 19.0, 72.0)" width="40" x="-1" y="67"/>
+<rect fill="rgb(50, 10, 220)" height="20" opacity="0.6" stroke="rgb(0, 135, 220)" stroke-opacity="0.8" stroke-width="6" transform="rotate(180, 17.0, 79.0)" width="10" x="12" y="69"/>
+<line fill="rgb(150, 10, 165)" opacity="0.6" stroke="rgb(125, 160, 55)" stroke-opacity="0.8" stroke-width="4" x1="15" x2="100" y1="70" y2="70"/>
+<circle fill="rgb(125, 160, 55)" opacity="0.6" stroke="rgb(50, 135, 0)" stroke-opacity="0.6" stroke-width="6" r="10.00" cx="89.00" cy="-2.00"/>
+<line fill="rgb(175, 185, 165)" opacity="0.6" stroke="rgb(175, 185, 165)" stroke-opacity="0.8" stroke-width="4" x1="28" x2="96" y1="82" y2="82"/>
+<rect fill="rgb(50, 10, 220)" height="10" opacity="0.8" stroke="rgb(100, 135, 165)" stroke-opacity="0.8" stroke-width="4" transform="rotate(90, 87.0, 50.0)" width="10" x="82" y="45"/>
+<rect fill="rgb(175, 185, 165)" height="10" opacity="0.8" stroke="rgb(100, 135, 165)" stroke-opacity="0.8" stroke-width="6" transform="rotate(0, 21.0, 87.0)" width="20" x="11" y="82"/>
+<circle fill="rgb(175, 185, 165)" opacity="0.8" stroke="rgb(150, 10, 165)" stroke-opacity="0.8" stroke-width="4" r="10.00" cx="68.00" cy="32.00"/>
+<line fill="rgb(50, 135, 0)" opacity="0.8" stroke="rgb(50, 10, 110)" stroke-opacity="0.8" stroke-width="6" x1="20" x2="96" y1="94" y2="94"/>
+<polygon fill="rgb(50, 10, 220)" opacity="0.8" stroke="rgb(150, 10, 165)" stroke-opacity="0.6" stroke-width="4" transform="rotate(90, 47.0, 104.0)" points="27.00,99.00 37.00,99.00 32.00,107.66"/>
+<rect fill="rgb(100, 135, 165)" height="10" opacity="0.8" stroke="rgb(225, 160, 0)" stroke-opacity="0.6" stroke-width="4" transform="rotate(0, 69.0, 114.0)" width="20" x="59" y="109"/>
+<rect fill="rgb(50, 10, 220)" height="5" opacity="0.8" stroke="rgb(150, 10, 165)" stroke-opacity="0.8" stroke-width="6" transform="rotate(180, 60.0, 15.5)" width="40" x="40" y="13"/>
+<rect fill="rgb(50, 10, 220)" height="20" opacity="0.6" stroke="rgb(125, 160, 55)" stroke-opacity="0.6" stroke-width="4" transform="rotate(270, 103.0, 34.0)" width="20" x="93" y="24"/>
+<polygon fill="rgb(225, 160, 0)" opacity="0.6" stroke="rgb(100, 135, 165)" stroke-opacity="0.6" stroke-width="6" transform="rotate(180, -3.0, 71.0)" points="-8.00,66.00 2.00,66.00 -3.00,74.66"/>
+<circle fill="rgb(175, 185, 165)" opacity="0.8" stroke="rgb(50, 10, 110)" stroke-opacity="0.6" stroke-width="4" r="20.00" cx="124.00" cy="24.00"/>
+<line fill="rgb(150, 10, 165)" opacity="0.8" stroke="rgb(50, 10, 110)" stroke-opacity="0.8" stroke-width="6" x1="46" x2="96" y1="10" y2="10"/>
+<polygon fill="rgb(50, 135, 0)" opacity="0.6" stroke="rgb(125, 160, 55)" stroke-opacity="0.8" stroke-width="4" transform="rotate(90, 49.0, 8.0)" points="29.00,-2.00 49.00,-2.00 39.00,15.32"/>
+<rect fill="rgb(150, 10, 165)" height="10" opacity="0.6" stroke="rgb(125, 160, 55)" stroke-opacity="0.6" stroke-width="4" transform="rotate(0, 22.0, 81.0)" width="20" x="12" y="76"/>
+<rect fill="rgb(150, 10, 165)" height="10" opacity="0.8" stroke="rgb(225, 160, 0)" stroke-opacity="0.6" stroke-width="6" transform="rotate(270, 84.0, 10.0)" width="40" x="64" y="5"/>
+<polygon fill="rgb(100, 135, 165)" opacity="0.6" stroke="rgb(150, 10, 165)" stroke-opacity="0.6" stroke-width="4" transform="rotate(90, 126.0, 31.0)" points="106.00,21.00 126.00,21.00 116.00,38.32"/>
+<circle fill="rgb(100, 135, 165)" opacity="0.8" stroke="rgb(125, 160, 55)" stroke-opacity="0.8" stroke-width="4" r="5.00" cx="102.00" cy="40.00"/>
+<polygon fill="rgb(0, 135, 220)" opacity="0.8" stroke="rgb(125, 160, 55)" stroke-opacity="0.6" stroke-width="6" transform="rotate(0, 97.0, -4.0)" points="77.00,-9.00 87.00,-9.00 82.00,-0.34"/>
+<rect fill="rgb(50, 10, 220)" height="5" opacity="0.8" stroke="rgb(225, 160, 0)" stroke-opacity="0.6" stroke-width="6" transform="rotate(90, 128.0, 118.5)" width="40" x="108" y="116"/>
+<rect fill="rgb(150, 10, 165)" height="20" opacity="0.6" stroke="rgb(125, 160, 55)" stroke-opacity="0.8" stroke-width="6" transform="rotate(180, 90.0, 70.0)" width="10" x="85" y="60"/>
+<polygon fill="rgb(175, 185, 165)" opacity="0.6" stroke="rgb(0, 135, 220)" stroke-opacity="0.6" stroke-width="4" transform="rotate(270, 74.0, 92.0)" points="64.00,87.00 74.00,87.00 69.00,95.66"/>
+<circle fill="rgb(50, 135, 0)" opacity="0.8" stroke="rgb(225, 160, 0)" stroke-opacity="0.8" stroke-width="6" r="20.00" cx="31.00" cy="28.00"/>
+<circle fill="rgb(50, 135, 0)" opacity="0.8" stroke="rgb(50, 10, 110)" stroke-opacity="0.8" stroke-width="6" r="20.00" cx="71.00" cy="140.00"/>
+<line fill="rgb(50, 10, 110)" opacity="0.8" stroke="rgb(125, 160, 55)" stroke-opacity="0.8" stroke-width="6" x1="39" x2="100" y1="22" y2="22"/>
+<rect fill="rgb(150, 10, 165)" height="10" opacity="0.6" stroke="rgb(50, 135, 0)" stroke-opacity="0.6" stroke-width="6" transform="rotate(0, 4.0, 83.0)" width="10" x="-1" y="78"/>
+<rect fill="rgb(50, 135, 0)" height="10" opacity="0.6" stroke="rgb(50, 10, 220)" stroke-opacity="0.6" stroke-width="4" transform="rotate(270, 90.0, 81.0)" width="10" x="85" y="76"/>
+<line fill="rgb(125, 160, 55)" opacity="0.8" stroke="rgb(150, 10, 165)" stroke-opacity="0.6" stroke-width="4" x1="4" x2="100" y1="34" y2="34"/>
+<polygon fill="rgb(50, 10, 110)" opacity="0.6" stroke="rgb(50, 10, 220)" stroke-opacity="0.8" stroke-width="6" transform="rotate(270, 51.0, 58.0)" points="31.00,48.00 51.00,48.00 41.00,65.32"/>
+<rect fill="rgb(50, 135, 0)" height="10" opacity="0.8" stroke="rgb(225, 160, 0)" stroke-opacity="0.8" stroke-width="6" transform="rotate(0, 128.0, 58.0)" width="40" x="108" y="53"/>
+<line fill="rgb(50, 135, 0)" opacity="0.8" stroke="rgb(150, 10, 165)" stroke-opacity="0.8" stroke-width="4" x1="46" x2="99" y1="46" y2="46"/>
+<rect fill="rgb(125, 160, 55)" height="20" opacity="0.8" stroke="rgb(50, 10, 110)" stroke-opacity="0.8" stroke-width="6" transform="rotate(270, 72.0, 82.0)" width="40" x="52" y="72"/>
+<circle fill="rgb(225, 160, 0)" opacity="0.8" stroke="rgb(175, 185, 165)" stroke-opacity="0.8" stroke-width="6" r="20.00" cx="83.00" cy="32.00"/>
+<rect fill="rgb(100, 135, 165)" height="5" opacity="0.6" stroke="rgb(50, 10, 110)" stroke-opacity="0.8" stroke-width="6" transform="rotate(270, 101.0, 56.5)" width="40" x="81" y="54"/>
+<polygon fill="rgb(150, 10, 165)" opacity="0.6" stroke="rgb(0, 135, 220)" stroke-opacity="0.6" stroke-width="6" transform="rotate(270, 68.0, 98.0)" points="58.00,93.00 68.00,93.00 63.00,101.66"/>
+<polygon fill="rgb(150, 10, 165)" opacity="0.6" stroke="rgb(0, 135, 220)" stroke-opacity="0.6" stroke-width="6" transform="rotate(180, 117.0, 59.5)" points="97.00,57.00 102.00,57.00 99.50,61.33"/>
+<line fill="rgb(225, 160, 0)" opacity="0.6" stroke="rgb(50, 10, 110)" stroke-opacity="0.6" stroke-width="6" x1="15" x2="98" y1="58" y2="58"/>
+<circle fill="rgb(175, 185, 165)" opacity="0.6" stroke="rgb(125, 160, 55)" stroke-opacity="0.6" stroke-width="4" r="10.00" cx="26.00" cy="33.00"/>
+<polygon fill="rgb(100, 135, 165)" opacity="0.6" stroke="rgb(50, 10, 220)" stroke-opacity="0.6" stroke-width="6" transform="rotate(180, 60.0, 36.5)" points="55.00,34.00 60.00,34.00 57.50,38.33"/>
+<rect fill="rgb(150, 10, 165)" height="10" opacity="0.6" stroke="rgb(50, 135, 0)" stroke-opacity="0.6" stroke-width="4" transform="rotate(90, 98.0, 68.0)" width="10" x="93" y="63"/>
+<rect fill="rgb(225, 160, 0)" height="20" opacity="0.8" stroke="rgb(175, 185, 165)" stroke-opacity="0.6" stroke-width="4" transform="rotate(270, -1.0, 26.0)" width="10" x="-6" y="16"/>
+<circle fill="rgb(0, 135, 220)" opacity="0.8" stroke="rgb(225, 160, 0)" stroke-opacity="0.6" stroke-width="6" r="10.00" cx="15.00" cy="116.00"/>
+<line fill="rgb(100, 135, 165)" opacity="0.6" stroke="rgb(0, 135, 220)" stroke-opacity="0.8" stroke-width="4" x1="39" x2="96" y1="70" y2="70"/>
+<line fill="rgb(50, 10, 110)" opacity="0.8" stroke="rgb(100, 135, 165)" stroke-opacity="0.8" stroke-width="6" x1="20" x2="100" y1="82" y2="82"/>
+<rect fill="rgb(50, 135, 0)" height="5" opacity="0.8" stroke="rgb(175, 185, 165)" stroke-opacity="0.6" stroke-width="4" transform="rotate(90, 109.0, 84.5)" width="20" x="99" y="82"/>
+<line fill="rgb(0, 135, 220)" opacity="0.6" stroke="rgb(150, 10, 165)" stroke-opacity="0.6" stroke-width="4" x1="35" x2="98" y1="94" y2="94"/>
+<rect fill="rgb(50, 10, 220)" height="20" opacity="0.8" stroke="rgb(125, 160, 55)" stroke-opacity="0.8" stroke-width="6" transform="rotate(90, 98.0, 56.0)" width="20" x="88" y="46"/>
+<rect fill="rgb(150, 10, 165)" height="5" opacity="0.6" stroke="rgb(225, 160, 0)" stroke-opacity="0.8" stroke-width="4" transform="rotate(270, 45.0, 66.5)" width="10" x="40" y="64"/>
+<polygon fill="rgb(150, 10, 165)" opacity="0.8" stroke="rgb(225, 160, 0)" stroke-opacity="0.6" stroke-width="6" transform="rotate(90, 69.0, 8.0)" points="49.00,-2.00 69.00,-2.00 59.00,15.32"/>
+<line fill="rgb(100, 135, 165)" opacity="0.6" stroke="rgb(225, 160, 0)" stroke-opacity="0.6" stroke-width="4" x1="0" x2="99" y1="10" y2="10"/>
+<circle fill="rgb(50, 10, 220)" opacity="0.8" stroke="rgb(125, 160, 55)" stroke-opacity="0.6" stroke-width="4" r="20.00" cx="14.00" cy="38.00"/>
+<circle fill="rgb(50, 10, 220)" opacity="0.8" stroke="rgb(125, 160, 55)" stroke-opacity="0.8" stroke-width="4" r="10.00" cx="24.00" cy="118.00"/>
+<polygon fill="rgb(125, 160, 55)" opacity="0.8" stroke="rgb(50, 10, 220)" stroke-opacity="0.6" stroke-width="4" transform="rotate(90, 24.0, 45.0)" points="4.00,40.00 14.00,40.00 9.00,48.66"/>
+<polygon fill="rgb(150, 10, 165)" opacity="0.8" stroke="rgb(150, 10, 165)" stroke-opacity="0.8" stroke-width="4" transform="rotate(180, 125.0, 96.0)" points="120.00,86.00 140.00,86.00 130.00,103.32"/>
+<circle fill="rgb(100, 135, 165)" opacity="0.8" stroke="rgb(50, 10, 110)" stroke-opacity="0.8" stroke-width="6" r="20.00" cx="63.00" cy="78.00"/>
+<line fill="rgb(100, 135, 165)" opacity="0.8" stroke="rgb(225, 160, 0)" stroke-opacity="0.6" stroke-width="6" x1="15" x2="98" y1="22" y2="22"/>
+<rect fill="rgb(50, 10, 220)" height="20" opacity="0.8" stroke="rgb(100, 135, 165)" stroke-opacity="0.6" stroke-width="6" transform="rotate(0, 2.0, 80.0)" width="40" x="-18" y="70"/>
+<line fill="rgb(125, 160, 55)" opacity="0.8" stroke="rgb(50, 135, 0)" stroke-opacity="0.8" stroke-width="4" x1="0" x2="96" y1="34" y2="34"/>
+<line fill="rgb(0, 135, 220)" opacity="0.6" stroke="rgb(150, 10, 165)" stroke-opacity="0.8" stroke-width="6" x1="35" x2="98" y1="46" y2="46"/>
+<rect fill="rgb(0, 135, 220)" height="10" opacity="0.6" stroke="rgb(100, 135, 165)" stroke-opacity="0.8" stroke-width="4" transform="rotate(90, 97.0, 10.0)" width="20" x="87" y="5"/>
+<line fill="rgb(125, 160, 55)" opacity="0.6" stroke="rgb(0, 135, 220)" stroke-opacity="0.8" stroke-width="6" x1="0" x2="100" y1="58" y2="58"/>
+</svg>

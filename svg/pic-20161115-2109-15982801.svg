@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink/" width="21in" height="21in" viewBox="0 0 100 100" version="1.2">
+
+  <desc>Picture by J. Wendt</desc>
+  <!-- START Generator PARAMETERS in Json -->
+  <desc>{"params":{"transform":["rc",[[0,90]]],"rows":4,"structure":"GRID","nr_of_figures":24,"fill":["rc",[["#E13C6E","#19A0A5","#19D237","#006EA5","#4B2337"]]],"stroke":["rc",[["#E13C6E","#19A0A5","#19D237","#006EA5","#4B2337"]]],"palette":["#E13C6E","#19A0A5","#19D237","#006EA5","#4B2337"],"columns":6,"opacity":["rc",[[0.2,0.7]]],"stroke-opacity":["rc",[[0.2,0.3]]],"stroke-width":["rc",[[6,4]]],"figures":["rc",[["rect","rect","rect","rect","polygon","rect","rect","circle","rect","line"]]]}}</desc>
+  <!-- END Generator PARAMETERS in Json -->
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect id="bg-00" x="0" y="0" width="100" height="100" fill="#blue" opacity=".3" stroke="orange" stroke-opacity=".3" stroke-width="0.1"/>
+
+<polygon fill="#19A0A5" opacity="0.2" stroke="#006EA5" stroke-opacity="0.3" stroke-width="4" transform="rotate(0, 8.335, 12.5)" points="0.00,0.00 25.00,0.00 12.50,21.65"/>
+<rect fill="#19D237" height="25.0" opacity="0.2" stroke="#E13C6E" stroke-opacity="0.2" stroke-width="4" transform="rotate(0, 8.335, 37.5)" width="16.67" x="0.0" y="25.0"/>
+<rect fill="#19A0A5" height="25.0" opacity="0.2" stroke="#4B2337" stroke-opacity="0.2" stroke-width="6" transform="rotate(90, 8.335, 62.5)" width="16.67" x="0.0" y="50.0"/>
+<rect fill="#4B2337" height="25.0" opacity="0.7" stroke="#E13C6E" stroke-opacity="0.3" stroke-width="4" transform="rotate(90, 8.335, 87.5)" width="16.67" x="0.0" y="75.0"/>
+<rect fill="#006EA5" height="25.0" opacity="0.2" stroke="#E13C6E" stroke-opacity="0.3" stroke-width="6" transform="rotate(90, 25.005, 12.5)" width="16.67" x="16.67" y="0.0"/>
+<rect fill="#4B2337" height="25.0" opacity="0.7" stroke="#4B2337" stroke-opacity="0.3" stroke-width="6" transform="rotate(90, 25.005, 37.5)" width="16.67" x="16.67" y="25.0"/>
+<polygon fill="#E13C6E" opacity="0.2" stroke="#19D237" stroke-opacity="0.3" stroke-width="4" transform="rotate(0, 25.005, 62.5)" points="16.67,50.00 41.67,50.00 29.17,71.65"/>
+<rect fill="#19D237" height="25.0" opacity="0.7" stroke="#006EA5" stroke-opacity="0.3" stroke-width="4" transform="rotate(90, 25.005, 87.5)" width="16.67" x="16.67" y="75.0"/>
+<rect fill="#E13C6E" height="25.0" opacity="0.7" stroke="#006EA5" stroke-opacity="0.2" stroke-width="4" transform="rotate(0, 41.665, 12.5)" width="16.67" x="33.33" y="0.0"/>
+<rect fill="#006EA5" height="25.0" opacity="0.2" stroke="#4B2337" stroke-opacity="0.2" stroke-width="4" transform="rotate(90, 41.665, 37.5)" width="16.67" x="33.33" y="25.0"/>
+<circle fill="#19D237" opacity="0.2" stroke="#E13C6E" stroke-opacity="0.2" stroke-width="4" r="12.50" cx="45.83" cy="62.50"/>
+<rect fill="#E13C6E" height="25.0" opacity="0.2" stroke="#4B2337" stroke-opacity="0.2" stroke-width="6" transform="rotate(90, 41.665, 87.5)" width="16.67" x="33.33" y="75.0"/>
+<circle fill="#E13C6E" opacity="0.7" stroke="#4B2337" stroke-opacity="0.2" stroke-width="4" r="12.50" cx="62.50" cy="12.50"/>
+<rect fill="#19A0A5" height="25.0" opacity="0.7" stroke="#19A0A5" stroke-opacity="0.3" stroke-width="4" transform="rotate(0, 58.335, 37.5)" width="16.67" x="50.0" y="25.0"/>
+<line fill="#E13C6E" opacity="0.7" stroke="#19A0A5" stroke-opacity="0.2" stroke-width="6" x1="16" x2="68" y1="21" y2="21"/>
+<polygon fill="#4B2337" opacity="0.2" stroke="#19A0A5" stroke-opacity="0.3" stroke-width="6" transform="rotate(90, 58.335, 62.5)" points="50.00,50.00 75.00,50.00 62.50,71.65"/>
+<rect fill="#4B2337" height="25.0" opacity="0.7" stroke="#006EA5" stroke-opacity="0.3" stroke-width="4" transform="rotate(0, 58.335, 87.5)" width="16.67" x="50.0" y="75.0"/>
+<rect fill="#4B2337" height="25.0" opacity="0.2" stroke="#006EA5" stroke-opacity="0.3" stroke-width="4" transform="rotate(0, 75.005, 12.5)" width="16.67" x="66.67" y="0.0"/>
+<rect fill="#4B2337" height="25.0" opacity="0.7" stroke="#E13C6E" stroke-opacity="0.2" stroke-width="4" transform="rotate(0, 75.005, 37.5)" width="16.67" x="66.67" y="25.0"/>
+<rect fill="#19A0A5" height="25.0" opacity="0.7" stroke="#4B2337" stroke-opacity="0.2" stroke-width="6" transform="rotate(0, 75.005, 62.5)" width="16.67" x="66.67" y="50.0"/>
+<polygon fill="#19A0A5" opacity="0.7" stroke="#006EA5" stroke-opacity="0.3" stroke-width="4" transform="rotate(0, 75.005, 87.5)" points="66.67,75.00 91.67,75.00 79.17,96.65"/>
+<rect fill="#E13C6E" height="25.0" opacity="0.2" stroke="#19D237" stroke-opacity="0.2" stroke-width="6" transform="rotate(90, 91.665, 12.5)" width="16.67" x="83.33" y="0.0"/>
+<circle fill="#19D237" opacity="0.7" stroke="#19D237" stroke-opacity="0.3" stroke-width="6" r="12.50" cx="95.83" cy="37.50"/>
+<rect fill="#E13C6E" height="25.0" opacity="0.7" stroke="#E13C6E" stroke-opacity="0.3" stroke-width="4" transform="rotate(90, 91.665, 62.5)" width="16.67" x="83.33" y="50.0"/>
+</svg>

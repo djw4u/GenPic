@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink/" width="21in" height="21in" viewBox="0 0 100 100" version="1.2">
+
+  <desc>Picture by J. Wendt</desc>
+  <!-- START Generator PARAMETERS in Json -->
+  <desc>{"params":{"structure":"GRID","figures":["rc",[["rect","rect","rect","rect","polygon","rect","rect","circle","rect"]]],"fill":["rc",[["#96EBDC","#32D2DC","#96B9A5","#4B876E","#AF3C00"]]],"nr_of_figures":24,"stroke":["rc",[["#96EBDC","#32D2DC","#96B9A5","#4B876E","#AF3C00"]]],"transform":["rc",[[0,90]]],"columns":6,"stroke-width":["rc",[[6,4]]],"rows":4,"stroke-opacity":["rc",[[0.2,0.3]]],"palette":["#96EBDC","#32D2DC","#96B9A5","#4B876E","#AF3C00"],"opacity":["rc",[[0.2,0.7]]]}}</desc>
+  <!-- END Generator PARAMETERS in Json -->
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect id="bg-00" x="0" y="0" width="100" height="100" fill="#blue" opacity=".3" stroke="orange" stroke-opacity=".3" stroke-width="0.1"/>
+
+<rect fill="#32D2DC" height="25.0" opacity="0.2" stroke="#AF3C00" stroke-opacity="0.3" stroke-width="6" transform="rotate(0, 8.335, 12.5)" width="16.67" x="0.0" y="0.0"/>
+<rect fill="#4B876E" height="25.0" opacity="0.7" stroke="#4B876E" stroke-opacity="0.2" stroke-width="6" transform="rotate(0, 8.335, 37.5)" width="16.67" x="0.0" y="25.0"/>
+<rect fill="#96EBDC" height="25.0" opacity="0.7" stroke="#AF3C00" stroke-opacity="0.2" stroke-width="4" transform="rotate(0, 8.335, 62.5)" width="16.67" x="0.0" y="50.0"/>
+<rect fill="#96B9A5" height="25.0" opacity="0.7" stroke="#AF3C00" stroke-opacity="0.3" stroke-width="4" transform="rotate(0, 8.335, 87.5)" width="16.67" x="0.0" y="75.0"/>
+<rect fill="#96B9A5" height="25.0" opacity="0.7" stroke="#4B876E" stroke-opacity="0.2" stroke-width="4" transform="rotate(90, 25.005, 12.5)" width="16.67" x="16.67" y="0.0"/>
+<rect fill="#96B9A5" height="25.0" opacity="0.2" stroke="#96EBDC" stroke-opacity="0.3" stroke-width="4" transform="rotate(90, 25.005, 37.5)" width="16.67" x="16.67" y="25.0"/>
+<rect fill="#4B876E" height="25.0" opacity="0.2" stroke="#AF3C00" stroke-opacity="0.2" stroke-width="4" transform="rotate(90, 25.005, 62.5)" width="16.67" x="16.67" y="50.0"/>
+<rect fill="#96B9A5" height="25.0" opacity="0.2" stroke="#32D2DC" stroke-opacity="0.2" stroke-width="4" transform="rotate(90, 25.005, 87.5)" width="16.67" x="16.67" y="75.0"/>
+<rect fill="#32D2DC" height="25.0" opacity="0.7" stroke="#32D2DC" stroke-opacity="0.2" stroke-width="6" transform="rotate(90, 41.665, 12.5)" width="16.67" x="33.33" y="0.0"/>
+<rect fill="#4B876E" height="25.0" opacity="0.7" stroke="#96B9A5" stroke-opacity="0.2" stroke-width="6" transform="rotate(0, 41.665, 37.5)" width="16.67" x="33.33" y="25.0"/>
+<rect fill="#4B876E" height="25.0" opacity="0.2" stroke="#AF3C00" stroke-opacity="0.3" stroke-width="4" transform="rotate(0, 41.665, 62.5)" width="16.67" x="33.33" y="50.0"/>
+<rect fill="#96B9A5" height="25.0" opacity="0.7" stroke="#AF3C00" stroke-opacity="0.2" stroke-width="4" transform="rotate(90, 41.665, 87.5)" width="16.67" x="33.33" y="75.0"/>
+<rect fill="#96EBDC" height="25.0" opacity="0.2" stroke="#32D2DC" stroke-opacity="0.2" stroke-width="6" transform="rotate(90, 58.335, 12.5)" width="16.67" x="50.0" y="0.0"/>
+<rect fill="#AF3C00" height="25.0" opacity="0.2" stroke="#AF3C00" stroke-opacity="0.3" stroke-width="6" transform="rotate(90, 58.335, 37.5)" width="16.67" x="50.0" y="25.0"/>
+<circle fill="#AF3C00" opacity="0.7" stroke="#96EBDC" stroke-opacity="0.3" stroke-width="6" r="12.50" cx="62.50" cy="62.50"/>
+<rect fill="#32D2DC" height="25.0" opacity="0.2" stroke="#96B9A5" stroke-opacity="0.3" stroke-width="4" transform="rotate(90, 58.335, 87.5)" width="16.67" x="50.0" y="75.0"/>
+<rect fill="#32D2DC" height="25.0" opacity="0.7" stroke="#32D2DC" stroke-opacity="0.2" stroke-width="6" transform="rotate(90, 75.005, 12.5)" width="16.67" x="66.67" y="0.0"/>
+<rect fill="#4B876E" height="25.0" opacity="0.7" stroke="#AF3C00" stroke-opacity="0.3" stroke-width="6" transform="rotate(90, 75.005, 37.5)" width="16.67" x="66.67" y="25.0"/>
+<rect fill="#AF3C00" height="25.0" opacity="0.2" stroke="#96EBDC" stroke-opacity="0.3" stroke-width="4" transform="rotate(0, 75.005, 62.5)" width="16.67" x="66.67" y="50.0"/>
+<polygon fill="#4B876E" opacity="0.7" stroke="#AF3C00" stroke-opacity="0.2" stroke-width="6" transform="rotate(90, 75.005, 87.5)" points="66.67,75.00 91.67,75.00 79.17,96.65"/>
+<rect fill="#4B876E" height="25.0" opacity="0.7" stroke="#96EBDC" stroke-opacity="0.3" stroke-width="4" transform="rotate(90, 91.665, 12.5)" width="16.67" x="83.33" y="0.0"/>
+<polygon fill="#96B9A5" opacity="0.7" stroke="#4B876E" stroke-opacity="0.3" stroke-width="6" transform="rotate(90, 91.665, 37.5)" points="83.33,25.00 108.33,25.00 95.83,46.65"/>
+<rect fill="#4B876E" height="25.0" opacity="0.7" stroke="#4B876E" stroke-opacity="0.2" stroke-width="6" transform="rotate(0, 91.665, 62.5)" width="16.67" x="83.33" y="50.0"/>
+<rect fill="#4B876E" height="25.0" opacity="0.7" stroke="#32D2DC" stroke-opacity="0.2" stroke-width="4" transform="rotate(90, 91.665, 87.5)" width="16.67" x="83.33" y="75.0"/>
+</svg>

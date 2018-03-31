@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink/" width="600px" height="600px" viewBox="0 0 100 100" version="1.2">
+
+  <desc>Picture by J. Wendt</desc>
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect id="bg-00" x="0" y="0" width="100" height="100" fill="lightblue" opacity="1." stroke="white" stroke-opacity=".7" stroke-width=".01"/>
+
+<polygon fill="#D9E1DD" opacity="0.4" points="90.00,41.00 130.00,41.00 110.00,75.64" stroke-opacity="0.8" stroke-width="6" stroke="#D8B29A" transform="0" id="42"/>
+<circle cx="7.00" cy="121.00" fill="#D9E1DD" opacity="0.4" r="20" stroke-opacity="0.8" stroke-width="6" stroke="#D9E1DD" id="27"/>
+<circle cx="97.00" cy="99.00" fill="#68443C" opacity="0.6" r="40" stroke-opacity="0.8" stroke-width="4" stroke="#D8B29A" id="9"/>
+<line stroke-linecap="round" stroke-opacity="0.8" stroke-width="4" stroke="#D8B29A" x1="18" x2="97" y1="70" y2="70" id="23"/>
+<circle cx="33.00" cy="100.00" fill="#B67B66" opacity="0.6" r="40" stroke-opacity="0.8" stroke-width="4" stroke="#68443C" id="15"/>
+<polygon fill="#68443C" opacity="0.4" points="-18.00,61.00 2.00,61.00 -8.00,78.32" stroke-opacity="0.8" stroke-width="6" stroke="#D9E1DD" transform="180" id="40"/>
+<rect fill="#ABBDC8" height="20" opacity="0.4" stroke-opacity="0.6" stroke-width="4" stroke="#B67B66" transform="180" width="10" x="32" y="115" id="44"/>
+<line stroke-linecap="round" stroke-opacity="0.8" stroke-width="4" stroke="#D8B29A" x1="3" x2="96" y1="94" y2="94" id="25"/>
+<rect fill="#68443C" height="40" opacity="0.4" stroke-opacity="0.6" stroke-width="6" stroke="#B67B66" transform="0" width="50" x="45" y="96" id="3"/>
+<polygon fill="#B67B66" opacity="0.6" points="52.00,8.00 72.00,8.00 62.00,25.32" stroke-opacity="0.6" stroke-width="4" stroke="#68443C" transform="180" id="26"/>
+<rect fill="#68443C" height="40" opacity="0.4" stroke-opacity="0.8" stroke-width="6" stroke="#D9E1DD" transform="180" width="10" x="-2" y="8" id="41"/>
+<line stroke-linecap="round" stroke-opacity="0.8" stroke-width="6" stroke="#ABBDC8" x1="26" x2="100" y1="82" y2="82" id="16"/>
+<line stroke-linecap="round" stroke-opacity="0.6" stroke-width="6" stroke="#B67B66" x1="17" x2="97" y1="10" y2="10" id="18"/>
+<rect fill="#ABBDC8" height="20" opacity="0.4" stroke-opacity="0.8" stroke-width="4" stroke="#ABBDC8" transform="180" width="10" x="87" y="25" id="34"/>
+<polygon fill="#D8B29A" opacity="0.4" points="116.00,64.00 156.00,64.00 136.00,98.64" stroke-opacity="0.8" stroke-width="6" stroke="#68443C" transform="0" id="1"/>
+<line stroke-linecap="round" stroke-opacity="0.8" stroke-width="4" stroke="#B67B66" x1="18" x2="97" y1="34" y2="34" id="36"/>
+<circle cx="54.00" cy="91.00" fill="#ABBDC8" opacity="0.6" r="20" stroke-opacity="0.8" stroke-width="6" stroke="#68443C" id="31"/>
+<circle cx="63.00" cy="36.00" fill="#D9E1DD" opacity="0.6" r="40" stroke-opacity="0.6" stroke-width="4" stroke="#68443C" id="29"/>
+<circle cx="57.00" cy="60.00" fill="#ABBDC8" opacity="0.4" r="40" stroke-opacity="0.8" stroke-width="4" stroke="#B67B66" id="13"/>
+<rect fill="#D8B29A" height="40" opacity="0.4" stroke-opacity="0.6" stroke-width="6" stroke="#D8B29A" transform="0" width="50" x="85" y="44" id="10"/>
+<line stroke-linecap="round" stroke-opacity="0.8" stroke-width="6" stroke="#ABBDC8" x1="13" x2="96" y1="58" y2="58" id="30"/>
+<rect fill="#68443C" height="40" opacity="0.4" stroke-opacity="0.8" stroke-width="6" stroke="#B67B66" transform="0" width="50" x="15" y="100" id="5"/>
+<polygon fill="#D9E1DD" opacity="0.6" points="24.00,116.00 64.00,116.00 44.00,150.64" stroke-opacity="0.6" stroke-width="4" stroke="#D9E1DD" transform="180" id="35"/>
+<rect fill="#D8B29A" height="20" opacity="0.4" stroke-opacity="0.6" stroke-width="4" stroke="#B67B66" transform="0" width="50" x="91" y="116" id="33"/>
+<rect fill="#B67B66" height="20" opacity="0.6" stroke-opacity="0.6" stroke-width="6" stroke="#B67B66" transform="0" width="10" x="50" y="115" id="45"/>
+<polygon fill="#68443C" opacity="0.6" points="84.00,38.00 124.00,38.00 104.00,72.64" stroke-opacity="0.8" stroke-width="6" stroke="#D8B29A" transform="0" id="20"/>
+<circle cx="58.00" cy="20.00" fill="#B67B66" opacity="0.4" r="20" stroke-opacity="0.6" stroke-width="6" stroke="#68443C" id="12"/>
+<rect fill="#68443C" height="20" opacity="0.4" stroke-opacity="0.8" stroke-width="4" stroke="#B67B66" transform="180" width="50" x="-9" y="109" id="19"/>
+<rect fill="#68443C" height="20" opacity="0.6" stroke-opacity="0.8" stroke-width="4" stroke="#ABBDC8" transform="0" width="50" x="14" y="-4" id="6"/>
+<polygon fill="#ABBDC8" opacity="0.6" points="20.00,7.00 40.00,7.00 30.00,24.32" stroke-opacity="0.8" stroke-width="6" stroke="#B67B66" transform="180" id="21"/>
+<circle cx="65.00" cy="32.00" fill="#D8B29A" opacity="0.4" r="20" stroke-opacity="0.6" stroke-width="4" stroke="#B67B66" id="22"/>
+<polygon fill="#68443C" opacity="0.6" points="39.00,-1.00 79.00,-1.00 59.00,33.64" stroke-opacity="0.8" stroke-width="4" stroke="#68443C" transform="0" id="43"/>
+<line stroke-linecap="round" stroke-opacity="0.6" stroke-width="4" stroke="#ABBDC8" x1="3" x2="96" y1="46" y2="46" id="37"/>
+<rect fill="#ABBDC8" height="20" opacity="0.4" stroke-opacity="0.8" stroke-width="4" stroke="#D9E1DD" transform="0" width="50" x="71" y="-12" id="17"/>
+<polygon fill="#B67B66" opacity="0.4" points="50.00,64.00 70.00,64.00 60.00,81.32" stroke-opacity="0.8" stroke-width="6" stroke="#B67B66" transform="180" id="11"/>
+<polygon fill="#D9E1DD" opacity="0.6" points="5.00,79.00 25.00,79.00 15.00,96.32" stroke-opacity="0.6" stroke-width="4" stroke="#D8B29A" transform="0" id="8"/>
+<polygon fill="#D9E1DD" opacity="0.4" points="49.00,15.00 89.00,15.00 69.00,49.64" stroke-opacity="0.8" stroke-width="6" stroke="#B67B66" transform="180" id="4"/>
+<polygon fill="#D9E1DD" opacity="0.6" points="56.00,116.00 76.00,116.00 66.00,133.32" stroke-opacity="0.8" stroke-width="4" stroke="#B67B66" transform="180" id="39"/>
+<line stroke-linecap="round" stroke-opacity="0.6" stroke-width="4" stroke="#D8B29A" x1="13" x2="99" y1="10" y2="10" id="2"/>
+<rect fill="#68443C" height="40" opacity="0.4" stroke-opacity="0.6" stroke-width="6" stroke="#D8B29A" transform="180" width="10" x="64" y="23" id="14"/>
+<circle cx="33.00" cy="79.00" fill="#D8B29A" opacity="0.4" r="40" stroke-opacity="0.6" stroke-width="4" stroke="#D8B29A" id="38"/>
+<line stroke-linecap="round" stroke-opacity="0.6" stroke-width="4" stroke="#68443C" x1="45" x2="97" y1="82" y2="82" id="32"/>
+<rect fill="#B67B66" height="20" opacity="0.6" stroke-opacity="0.8" stroke-width="4" stroke="#ABBDC8" transform="0" width="50" x="42" y="-3" id="7"/>
+<circle cx="11.00" cy="132.00" fill="#D8B29A" opacity="0.4" r="20" stroke-opacity="0.6" stroke-width="4" stroke="#B67B66" id="24"/>
+<circle cx="130.00" cy="71.00" fill="#ABBDC8" opacity="0.6" r="20" stroke-opacity="0.6" stroke-width="6" stroke="#D9E1DD" id="28"/>
+</svg>

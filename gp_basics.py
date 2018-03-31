@@ -71,7 +71,7 @@ def create_output_directory(root = '', form = 'triangle'):
 def tofile(fname, content):
     """write string based content to file fname """
     with open(fname, 'wt') as f:
-     f.write(content)
+        f.write(content)
 
 
 def fromfile(fname):

@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink/" width="21in" height="21in" viewBox="0 0 100 100" version="1.2">
+
+  <desc>Picture by J. Wendt</desc>
+  <!-- START Generator PARAMETERS in Json -->
+  <desc>{"params":{"fill":["rc",[["rgb(200, 60, 55)","rgb(25, 235, 110)","rgb(200, 185, 165)","rgb(75, 10, 55)","rgb(225, 135, 220)","rgb(0, 60, 220)","rgb(100, 160, 55)","rgb(25, 110, 220)","rgb(100, 185, 220)","rgb(150, 185, 165)","rgb(0, 160, 165)","rgb(150, 10, 220)","rgb(100, 235, 165)","rgb(175, 85, 110)","rgb(25, 185, 220)","rgb(250, 160, 110)","rgb(125, 60, 110)","rgb(25, 160, 165)","rgb(50, 160, 110)","rgb(50, 135, 0)","rgb(25, 235, 165)","rgb(150, 85, 55)","rgb(50, 85, 110)","rgb(225, 210, 0)","rgb(0, 35, 220)","rgb(50, 160, 220)","rgb(0, 110, 55)","rgb(225, 35, 165)","rgb(50, 60, 220)","rgb(100, 235, 165)","rgb(100, 135, 110)","rgb(150, 160, 165)","rgb(175, 210, 0)","rgb(200, 210, 220)","rgb(225, 185, 165)","rgb(250, 235, 0)"]]],"stroke-opacity":["rc",[[0.8,0.6]]],"nr_of_figures":23,"palette":["rgb(200, 60, 55)","rgb(25, 235, 110)","rgb(200, 185, 165)","rgb(75, 10, 55)","rgb(225, 135, 220)","rgb(0, 60, 220)","rgb(100, 160, 55)","rgb(25, 110, 220)","rgb(100, 185, 220)","rgb(150, 185, 165)","rgb(0, 160, 165)","rgb(150, 10, 220)","rgb(100, 235, 165)","rgb(175, 85, 110)","rgb(25, 185, 220)","rgb(250, 160, 110)","rgb(125, 60, 110)","rgb(25, 160, 165)","rgb(50, 160, 110)","rgb(50, 135, 0)","rgb(25, 235, 165)","rgb(150, 85, 55)","rgb(50, 85, 110)","rgb(225, 210, 0)","rgb(0, 35, 220)","rgb(50, 160, 220)","rgb(0, 110, 55)","rgb(225, 35, 165)","rgb(50, 60, 220)","rgb(100, 235, 165)","rgb(100, 135, 110)","rgb(150, 160, 165)","rgb(175, 210, 0)","rgb(200, 210, 220)","rgb(225, 185, 165)","rgb(250, 235, 0)"],"colorid":651,"x":["ri",[-20,120]],"stroke":["rc",[["rgb(200, 60, 55)","rgb(25, 235, 110)","rgb(200, 185, 165)","rgb(75, 10, 55)","rgb(225, 135, 220)","rgb(0, 60, 220)","rgb(100, 160, 55)","rgb(25, 110, 220)","rgb(100, 185, 220)","rgb(150, 185, 165)","rgb(0, 160, 165)","rgb(150, 10, 220)","rgb(100, 235, 165)","rgb(175, 85, 110)","rgb(25, 185, 220)","rgb(250, 160, 110)","rgb(125, 60, 110)","rgb(25, 160, 165)","rgb(50, 160, 110)","rgb(50, 135, 0)","rgb(25, 235, 165)","rgb(150, 85, 55)","rgb(50, 85, 110)","rgb(225, 210, 0)","rgb(0, 35, 220)","rgb(50, 160, 220)","rgb(0, 110, 55)","rgb(225, 35, 165)","rgb(50, 60, 220)","rgb(100, 235, 165)","rgb(100, 135, 110)","rgb(150, 160, 165)","rgb(175, 210, 0)","rgb(200, 210, 220)","rgb(225, 185, 165)","rgb(250, 235, 0)"]]],"width":["rc",[[20,40]]],"stroke-width":["rc",[[6,4]]],"y":["ri",[-20,120]],"structure":"RANDOM","figures":["rc",[["polygon","rect","circle","rect","circle","line"]]],"opacity":["rc",[[0.6,0.8]]],"height":["rc",[[20,10]]],"transform":["rc",[[0,180]]]}}</desc>
+  <!-- END Generator PARAMETERS in Json -->
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect id="bg-00" x="0" y="0" width="100" height="100" fill="rgb(225, 185, 165)" opacity=".8" stroke="white" stroke-opacity=".3" stroke-width="0.1"/>
+
+<circle fill="rgb(50, 160, 220)" opacity="0.8" stroke="rgb(225, 135, 220)" stroke-opacity="0.6" stroke-width="6" r="10.00" cx="0.00" cy="-1.00"/>
+<circle fill="rgb(25, 235, 110)" opacity="0.8" stroke="rgb(150, 185, 165)" stroke-opacity="0.8" stroke-width="6" r="20.00" cx="52.00" cy="101.00"/>
+<rect fill="rgb(100, 185, 220)" height="20" opacity="0.8" stroke="rgb(25, 160, 165)" stroke-opacity="0.6" stroke-width="4" transform="rotate(0, 120.0, 35.0)" width="20" x="110" y="25"/>
+<rect fill="rgb(100, 235, 165)" height="10" opacity="0.8" stroke="rgb(25, 235, 165)" stroke-opacity="0.6" stroke-width="4" transform="rotate(180, 110.0, 41.0)" width="40" x="90" y="36"/>
+<circle fill="rgb(50, 135, 0)" opacity="0.6" stroke="rgb(150, 10, 220)" stroke-opacity="0.8" stroke-width="6" r="10.00" cx="-9.00" cy="3.00"/>
+<line fill="rgb(100, 185, 220)" opacity="0.8" stroke="rgb(50, 85, 110)" stroke-opacity="0.6" stroke-width="6" x1="5" x2="96" y1="10" y2="10"/>
+<polygon fill="rgb(200, 60, 55)" opacity="0.8" stroke="rgb(50, 160, 220)" stroke-opacity="0.6" stroke-width="6" transform="rotate(0, 101.0, 94.0)" points="91.00,89.00 101.00,89.00 96.00,97.66"/>
+<rect fill="rgb(100, 135, 110)" height="10" opacity="0.6" stroke="rgb(0, 60, 220)" stroke-opacity="0.6" stroke-width="6" transform="rotate(180, 84.0, 99.0)" width="40" x="64" y="94"/>
+<line fill="rgb(50, 60, 220)" opacity="0.6" stroke="rgb(0, 60, 220)" stroke-opacity="0.8" stroke-width="6" x1="12" x2="97" y1="22" y2="22"/>
+<circle fill="rgb(125, 60, 110)" opacity="0.8" stroke="rgb(25, 235, 165)" stroke-opacity="0.6" stroke-width="4" r="20.00" cx="86.00" cy="78.00"/>
+<line fill="rgb(100, 160, 55)" opacity="0.6" stroke="rgb(0, 35, 220)" stroke-opacity="0.6" stroke-width="6" x1="23" x2="96" y1="34" y2="34"/>
+<circle fill="rgb(50, 160, 220)" opacity="0.6" stroke="rgb(0, 35, 220)" stroke-opacity="0.8" stroke-width="6" r="10.00" cx="45.00" cy="86.00"/>
+<rect fill="rgb(200, 210, 220)" height="20" opacity="0.6" stroke="rgb(225, 135, 220)" stroke-opacity="0.6" stroke-width="4" transform="rotate(0, 97.0, 124.0)" width="20" x="87" y="114"/>
+<polygon fill="rgb(50, 160, 220)" opacity="0.6" stroke="rgb(0, 60, 220)" stroke-opacity="0.8" stroke-width="6" transform="rotate(180, 2.0, 37.0)" points="-8.00,27.00 12.00,27.00 2.00,44.32"/>
+<line fill="rgb(225, 35, 165)" opacity="0.6" stroke="rgb(25, 185, 220)" stroke-opacity="0.8" stroke-width="4" x1="47" x2="99" y1="46" y2="46"/>
+<line fill="rgb(0, 35, 220)" opacity="0.8" stroke="rgb(150, 85, 55)" stroke-opacity="0.8" stroke-width="4" x1="26" x2="100" y1="58" y2="58"/>
+<polygon fill="rgb(50, 135, 0)" opacity="0.8" stroke="rgb(125, 60, 110)" stroke-opacity="0.8" stroke-width="4" transform="rotate(0, 136.0, -5.0)" points="116.00,-15.00 136.00,-15.00 126.00,2.32"/>
+<circle fill="rgb(150, 10, 220)" opacity="0.8" stroke="rgb(175, 85, 110)" stroke-opacity="0.6" stroke-width="6" r="10.00" cx="109.00" cy="104.00"/>
+<rect fill="rgb(225, 35, 165)" height="10" opacity="0.6" stroke="rgb(225, 135, 220)" stroke-opacity="0.6" stroke-width="4" transform="rotate(180, 106.0, -7.0)" width="40" x="86" y="-12"/>
+<line fill="rgb(50, 60, 220)" opacity="0.6" stroke="rgb(175, 210, 0)" stroke-opacity="0.6" stroke-width="6" x1="17" x2="96" y1="70" y2="70"/>
+<rect fill="rgb(200, 60, 55)" height="10" opacity="0.8" stroke="rgb(200, 60, 55)" stroke-opacity="0.6" stroke-width="6" transform="rotate(180, 24.0, 49.0)" width="40" x="4" y="44"/>
+<line fill="rgb(0, 60, 220)" opacity="0.8" stroke="rgb(125, 60, 110)" stroke-opacity="0.8" stroke-width="4" x1="3" x2="99" y1="82" y2="82"/>
+<circle fill="rgb(50, 85, 110)" opacity="0.6" stroke="rgb(25, 235, 165)" stroke-opacity="0.6" stroke-width="6" r="10.00" cx="83.00" cy="46.00"/>
+</svg>

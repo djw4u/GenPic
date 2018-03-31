@@ -1,9 +1,27 @@
 ######################################
 ### will be an own module: gp_algorithms
 
+from datetime import datetime
 import random
 
-#algorithms to generate attributes
+
+# basic help functions
+def timestamp():
+    """Return a timestamp  of the form YYYYMMDD-HHMM-SSSSSS"""
+    return datetime.now().strftime('%Y%m%d-%H%M-%S%f')
+
+# manage colors
+def rgb_rand(step=3):
+    return random.randrange(0, 255, step)
+
+def rgb2hex(r,g,b):
+    return ('#%02x%02x%02x' % (r, g, b)).upper()
+
+def rgb2svg(r, g, b):
+    return 'rgb({}, {}, {})'.format(r, g, b)
+
+
+# algorithms to generate attributes
 def random_choice(values):
     return random.choice(values)
 
@@ -21,7 +39,13 @@ def fifo_loop(seq):
         seq.append(result)
         return result
 
-#algorithms to mutate and combine pictures
+# functions are callable by dict keys
+RM_FUNCTION = {'random_randint': random_randint,
+               'random_randrange': random_randrange,
+               'random_choice': random_choice,
+               'fifo_loop': fifo_loop}    
+
+# algorithms to mutate and combine pictures
 
 def pic_merger(list_of_pics_figurelists):
     """Add and sort figures of  different pictures"""
@@ -33,27 +57,32 @@ def pic_shuffle(list_of_pics_figurelists):
 ### will be an own module: gp_elements
 from math import sin, pi
 
+def get_grid(rows, cols, start_r=0, stop_r=100, start_c=0, stop_c=100):
+    height = (stop_r - start_r) / rows
+    width  = (stop_c - start_c) / cols
+    grid = list(zip(*[[round(height * i, 2), round(width * j, 2)]
+                for i in range(rows ) for j in range(cols )]))
+    return (grid[0], grid[1], round(height), round(width))
 
 def generate_figure(controls, xmlplus = ''):
     figure = {}
     for k, algorithm in controls.items():
-        figure[k] = getattr(attr_funcs, algorithm['func'])(*algorithm['params'])
-    if k == 'transform':
-        if figure['figures'] == 'circle' or figure['transform'] == 0:
-            del figure['transform']
-        else:
-            figure['transform'] = attr_funcs.transform_rotate(*[figure[k] 
-                                  for k in ('x','y','width','height')], angle = figure['transform'])
+        figure[k] = RM_FUNCTION[algorithm['func']](*algorithm['input'])
+    if figure['shape'] == 'circle' or figure['transform'] == 0:
+        del figure['transform']
+    else:
+        figure['transform'] = transform_rotate(*[figure[k] 
+              for k in ('x','y','width','height')], angle = figure['transform'])
             
-    attr_funcs.streamline_attribs(figure)   
+    streamline_attribs(figure)   
 
     s = '{}="{}"'
     attrs =[]
     for k, v in figure.items():
-        if not k == 'figures': 
+        if not k == 'shape': 
             attrs.append(s.format(k, v))
     attrs.sort()
-    return '<{} '.format(figure['figures']) + ' '.join(attrs) + ' ' + xmlplus + '/>'
+    return '<{} '.format(figure['shape']) + ' '.join(attrs) + ' ' + xmlplus + '/>'
 
 def streamline_attribs(element):
     """Delete all attributes that are not requiered"""
@@ -76,21 +105,21 @@ def streamline_attribs(element):
         format(*t)
 
     #allowed svg attributes
-    BASE_ATTRIBUTES    = ('figures', 'id', 'stroke', 'stroke-opacity', 'stroke-width',)
+    BASE_ATTRIBUTES    = ('shape', 'id', 'stroke', 'stroke-opacity', 'stroke-width',)
     LINE_ATTRIBUTES    = ('x1', 'x2', 'y1', 'y2',  'stroke-linecap')
     FILL_ATTRIBUTES    = ('fill', 'opacity')
     RECT_ATTRIBUTES    = ('x', 'y', 'height', 'width',  'transform')
     POLY_ATTRIBUTES    = ('points',  'transform')
     CIRC_ATTRIBUTES    = ('cx',  'cy', 'r')
 
-    if element['figures'] == 'line':
+    if element['shape'] == 'line':
         allowed = BASE_ATTRIBUTES + LINE_ATTRIBUTES
-    elif element['figures'] == 'rect':
+    elif element['shape'] == 'rect':
         allowed = BASE_ATTRIBUTES + FILL_ATTRIBUTES + RECT_ATTRIBUTES
-    elif element['figures'] == 'circle':
+    elif element['shape'] == 'circle':
         allowed = BASE_ATTRIBUTES + FILL_ATTRIBUTES + CIRC_ATTRIBUTES
         fit_circle(element)
-    elif element['figures'] == 'polygon':
+    elif element['shape'] == 'polygon':
         allowed = BASE_ATTRIBUTES + FILL_ATTRIBUTES + POLY_ATTRIBUTES
         fit_polygon(element)
 

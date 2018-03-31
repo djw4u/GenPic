@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink/" width="21in" height="21in" viewBox="0 0 100 100" version="1.2">
+
+  <desc>Picture by J. Wendt</desc>
+  <!-- START Generator PARAMETERS in Json -->
+  <desc>{"params":{"opacity":["rc",[[0.5,0.7]]],"stroke-width":["rc",[[6,4]]],"stroke":["rc",[["#19EB00","#648700","#1955DC","#C8D2A5","#AFD26E","#FA55DC","#96D200","#E10A37","#00EBDC","#4B0A6E","#E1876E"]]],"palette":["#19EB00","#648700","#1955DC","#C8D2A5","#AFD26E","#FA55DC","#96D200","#E10A37","#00EBDC","#4B0A6E","#E1876E"],"columns":3,"nr_of_figures":15,"stroke-opacity":["rc",[[0.2,0.3,1]]],"structure":"GRID","figures":["rc",[["circle"]]],"transform":["rc",[[0,90,45]]],"rows":5,"fill":["rc",[["#19EB00","#648700","#1955DC","#C8D2A5","#AFD26E","#FA55DC","#96D200","#E10A37","#00EBDC","#4B0A6E","#E1876E"]]]}}</desc>
+  <!-- END Generator PARAMETERS in Json -->
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect id="bg-00" x="0" y="0" width="100" height="100" fill="#blue" opacity=".3" stroke="orange" stroke-opacity=".3" stroke-width="0.1"/>
+
+<circle fill="#FA55DC" opacity="0.7" stroke="#C8D2A5" stroke-opacity="0.3" stroke-width="4" r="16.66" cx="16.66" cy="16.66"/>
+<circle fill="#E1876E" opacity="0.5" stroke="#4B0A6E" stroke-opacity="0.2" stroke-width="6" r="16.66" cx="16.66" cy="36.66"/>
+<circle fill="#E10A37" opacity="0.5" stroke="#AFD26E" stroke-opacity="0.3" stroke-width="4" r="16.66" cx="16.66" cy="56.66"/>
+<circle fill="#FA55DC" opacity="0.5" stroke="#96D200" stroke-opacity="1" stroke-width="6" r="16.66" cx="16.66" cy="76.66"/>
+<circle fill="#19EB00" opacity="0.7" stroke="#C8D2A5" stroke-opacity="1" stroke-width="4" r="16.66" cx="16.66" cy="96.66"/>
+<circle fill="#C8D2A5" opacity="0.5" stroke="#AFD26E" stroke-opacity="1" stroke-width="6" r="16.66" cx="49.99" cy="16.66"/>
+<circle fill="#19EB00" opacity="0.5" stroke="#E1876E" stroke-opacity="1" stroke-width="4" r="16.66" cx="49.99" cy="36.66"/>
+<circle fill="#648700" opacity="0.5" stroke="#FA55DC" stroke-opacity="0.3" stroke-width="6" r="16.66" cx="49.99" cy="56.66"/>
+<circle fill="#1955DC" opacity="0.7" stroke="#E1876E" stroke-opacity="1" stroke-width="6" r="16.66" cx="49.99" cy="76.66"/>
+<circle fill="#1955DC" opacity="0.5" stroke="#E10A37" stroke-opacity="1" stroke-width="6" r="16.66" cx="49.99" cy="96.66"/>
+<circle fill="#1955DC" opacity="0.7" stroke="#FA55DC" stroke-opacity="0.3" stroke-width="4" r="16.66" cx="83.33" cy="16.66"/>
+<circle fill="#1955DC" opacity="0.7" stroke="#96D200" stroke-opacity="1" stroke-width="6" r="16.66" cx="83.33" cy="36.66"/>
+<circle fill="#C8D2A5" opacity="0.5" stroke="#1955DC" stroke-opacity="0.2" stroke-width="6" r="16.66" cx="83.33" cy="56.66"/>
+<circle fill="#AFD26E" opacity="0.5" stroke="#AFD26E" stroke-opacity="0.3" stroke-width="6" r="16.66" cx="83.33" cy="76.66"/>
+<circle fill="#E1876E" opacity="0.7" stroke="#C8D2A5" stroke-opacity="1" stroke-width="6" r="16.66" cx="83.33" cy="96.66"/>
+</svg>
