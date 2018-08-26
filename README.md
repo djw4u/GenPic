@@ -1,7 +1,7 @@
 # [GenPic](http://getbootstrap.com)
 
 
-GenPic is a wonderful powerful tool to generate arty picutres in the SVG format, created by [Jürgen Wendt](httpxs:/dogxs.net). 
+GenPic is a tool to generate arty pictures in the SVG format, created by [Jürgen Wendt](httpxs:/dogxs.net). 
 
 
 ## Table of contents
