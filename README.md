@@ -39,4 +39,4 @@ Choose how to store the generated pictures and data
 1.  *color-palettes.data* provides nice color palettes in an Json format.
 2.  
 
-Visit the website of [GenPic](http://djw4u.github.io/GenPic/).
+
