@@ -7,7 +7,7 @@
   <!-- END Generator PARAMETERS in Json -->
 
   <!-- Show outline of canvas using 'rect' element -->
-  <rect id="bg-00" x="0" y="0" width="100" height="100" fill="grey" opacity=".8" stroke="white" stroke-opacity=".3" stroke-width="0.1"/>
+  <rect id="bg-00" x="0" y="0" width="100" height="100" fill="grey" opacity="1.0" stroke="white" stroke-opacity=".3" stroke-width="0.1"/>
 
 <circle fill="rgb(125, 160, 50)" opacity="0.6" stroke="rgb(25, 135, 100)" stroke-linecap="round" stroke-opacity="0.6" stroke-width="6" r="25.00" cx="112.00" cy="126.00"/>
 <polygon fill="rgb(125, 80, 25)" opacity="0.6" stroke="rgb(50, 25, 85)" stroke-linecap="round" stroke-opacity="0.8" stroke-width="4" transform="rotate(180, 46.0, 92.0)" points="21.00,82.00 41.00,82.00 31.00,99.32"/>
